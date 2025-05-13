@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Swatch Samples</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Swatch Samples</h1>
+  <div id="swatches"></div>
+
+  <script>
+    fetch('swatches.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('swatches');
+        data.swatches.forEach(swatch => {
+          const swatchDiv = document.createElement('div');
+          swatchDiv.className = 'swatch';
+          swatchDiv.style.backgroundColor = swatch.color;
+          swatchDiv.innerText = swatch.name;
+          container.appendChild(swatchDiv);
+        });
+      });
+  </script>
+</body>
+</html>
