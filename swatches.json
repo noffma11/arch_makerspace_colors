@@ -251,6 +251,18 @@
     {
       "name": "True White",
       "color": "#EAEAF1"
+    },
+    {
+      "name": "True White",
+      "color": "#EAEAF1"
+    },
+    {
+      "name": "Paper White",
+      "color": "#ECECF0"
+    },
+    {
+      "name": "White",
+      "color": "#EBEDEC"
     }
   ]
 }
