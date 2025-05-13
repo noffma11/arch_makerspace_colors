@@ -1,0 +1,268 @@
+{
+  "swatches": [
+    {
+      "name": "Brown",
+      "color": "#442D2D"
+    },
+    {
+      "name": "True Red",
+      "color": "#AE2927"
+    },
+    {
+      "name": "Terracotta",
+      "color": "#A46A62"
+    },
+    {
+      "name": "Prusa Orange",
+      "color": "#DC5317"
+    },
+    {
+      "name": "Army Brown",
+      "color": "#81685D"
+    },
+    {
+      "name": "Skin",
+      "color": "#D3B2A1"
+    },
+    {
+      "name": "True Orange",
+      "color": "#D36A31"
+    },
+    {
+      "name": "Copper",
+      "color": "#845A41"
+    },
+    {
+      "name": "Beige",
+      "color": "#E0CEC1"
+    },
+    {
+      "name": "Wood Brown",
+      "color": "#B58763"
+    },
+    {
+      "name": "Light Orange",
+      "color": "#E0741F"
+    },
+    {
+      "name": "Light Brown",
+      "color": "#BD9B7F"
+    },
+    {
+      "name": "Brown",
+      "color": "#876E58"
+    },
+    {
+      "name": "Peanut",
+      "color": "#BF9C7D"
+    },
+    {
+      "name": "Kraft",
+      "color": "#BCA07A"
+    },
+    {
+      "name": "Gold",
+      "color": "#D8A14B"
+    },
+    {
+      "name": "Light Brown",
+      "color": "#B69A6B"
+    },
+    {
+      "name": "Max Mustard",
+      "color": "#C9A460"
+    },
+    {
+      "name": "Real Yellow",
+      "color": "#DFC92B"
+    },
+    {
+      "name": "True Yellow",
+      "color": "#E8CC00"
+    },
+    {
+      "name": "Pastel Green",
+      "color": "#C8DF66"
+    },
+    {
+      "name": "Lime Green",
+      "color": "#8ABF30"
+    },
+    {
+      "name": "Green",
+      "color": "#8CAF65"
+    },
+    {
+      "name": "Cool Mint",
+      "color": "#BEC9B4"
+    },
+    {
+      "name": "Peak Green",
+      "color": "#85C469"
+    },
+    {
+      "name": "Neon Green",
+      "color": "#6ED74B"
+    },
+    {
+      "name": "Neon Green",
+      "color": "#3C9A33"
+    },
+    {
+      "name": "Max Green",
+      "color": "#007B39"
+    },
+    {
+      "name": "Starlight Comet",
+      "color": "#4B6B5B"
+    },
+    {
+      "name": "True Green",
+      "color": "#00984F"
+    },
+    {
+      "name": "Mint Green",
+      "color": "#84D4B9"
+    },
+    {
+      "name": "Grass Green",
+      "color": "#008167"
+    },
+    {
+      "name": "Seafoam Blue",
+      "color": "#B9CFCB"
+    },
+    {
+      "name": "Dual: Blue - Green",
+      "color": "#4C8482"
+    },
+    {
+      "name": "Baby Blue",
+      "color": "#6ACFD2"
+    },
+    {
+      "name": "Light Blue",
+      "color": "#007EBB"
+    },
+    {
+      "name": "Gray Blue",
+      "color": "#637888"
+    },
+    {
+      "name": "Blue",
+      "color": "#094376"
+    },
+    {
+      "name": "True Blue",
+      "color": "#17459A"
+    },
+    {
+      "name": "Max Dark Blue",
+      "color": "#313B51"
+    },
+    {
+      "name": "Light Purple",
+      "color": "#5C60A9"
+    },
+    {
+      "name": "Midnight Purple",
+      "color": "#53408E"
+    },
+    {
+      "name": "Purple",
+      "color": "#973C92"
+    },
+    {
+      "name": "Purple",
+      "color": "#8F1C7C"
+    },
+    {
+      "name": "True Pink",
+      "color": "#D46986"
+    },
+    {
+      "name": "Cherry Red",
+      "color": "#8F2637"
+    },
+    {
+      "name": "Black",
+      "color": "#25282A"
+    },
+    {
+      "name": "Black",
+      "color": "#2B2829"
+    },
+    {
+      "name": "True Black",
+      "color": "#302E31"
+    },
+    {
+      "name": "Galaxy Black",
+      "color": "#424240"
+    },
+    {
+      "name": "Ash Gray",
+      "color": "#404549"
+    },
+    {
+      "name": "Space Gray",
+      "color": "#747677"
+    },
+    {
+      "name": "Transparent",
+      "color": "#8E8B86"
+    },
+    {
+      "name": "Natural",
+      "color": "#8E8E8E"
+    },
+    {
+      "name": "True Silver",
+      "color": "#8E8E90"
+    },
+    {
+      "name": "Gray",
+      "color": "#8C8F8F"
+    },
+    {
+      "name": "Cool Gray",
+      "color": "#989A99"
+    },
+    {
+      "name": "Natural",
+      "color": "#A8AEB3"
+    },
+    {
+      "name": "Parthenon Gray",
+      "color": "#ADB4BB"
+    },
+    {
+      "name": "White",
+      "color": "#D1D4DB"
+    },
+    {
+      "name": "White",
+      "color": "#E0E4E7"
+    },
+    {
+      "name": "White",
+      "color": "#E5E7E6"
+    },
+    {
+      "name": "True White",
+      "color": "#EAEAF1"
+    },
+    {
+      "name": "True White",
+      "color": "#EAEAF1"
+    },
+    {
+      "name": "Paper White",
+      "color": "#ECECF0"
+    },
+    {
+      "name": "White",
+      "color": "#EBEDEC"
+    }
+  ]
+}
