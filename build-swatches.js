@@ -11,7 +11,12 @@ fetch(CSV_URL)
       .filter(row => row['Color'] && row['Hex Color'])
       .map(row => ({
         name: row['Color'],
-        color: row['Hex Color']
+        color: row['Hex Color'],
+        materialType: row['Material Type'],
+        subType: row['Sub Type'],
+        hex: row['Hex Color'],
+        brand: row['Brand'],
+        purchaseLink: row['Purchase Link']
       }));
     const output = { swatches };
     fs.writeFileSync('swatches.json', JSON.stringify(output, null, 2));
