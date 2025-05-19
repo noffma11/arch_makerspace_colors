@@ -584,15 +584,6 @@
       "hex": "#ECECF0",
       "brand": "MatterHackers",
       "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MATCZF0G"
-    },
-    {
-      "name": "White",
-      "color": "#EBEDEC",
-      "materialType": "PLA",
-      "subType": "Pro",
-      "hex": "#EBEDEC",
-      "brand": "MatterHackers",
-      "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MKVQAQ28"
     }
   ]
 }
