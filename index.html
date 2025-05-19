@@ -8,19 +8,98 @@
 </head>
 <body>
   <h1>Swatch Samples</h1>
+  
   <div id="swatches"></div>
 
   <script>
-    fetch('swatches.json')
+    fetch('swatches.json?v=' + Date.now()) // Cache-busting query parameter
       .then(response => response.json())
       .then(data => {
         const container = document.getElementById('swatches');
+        // Group swatches by brand
+        const brandGroups = {};
         data.swatches.forEach(swatch => {
-          const swatchDiv = document.createElement('div');
-          swatchDiv.className = 'swatch';
-          swatchDiv.style.backgroundColor = swatch.color;
-          swatchDiv.innerText = swatch.name;
-          container.appendChild(swatchDiv);
+          const brand = swatch.brand && swatch.brand.trim() ? swatch.brand : 'Unknown';
+          if (!brandGroups[brand]) brandGroups[brand] = [];
+          brandGroups[brand].push(swatch);
+        });
+
+        // Sort brands by number of swatches (descending)
+        const sortedBrands = Object.entries(brandGroups)
+          .sort((a, b) => b[1].length - a[1].length);
+
+        sortedBrands.forEach(([brand, swatches]) => {
+          // Brand group wrapper
+          const brandGroup = document.createElement('div');
+          brandGroup.className = 'brand-group';
+
+          // Brand heading
+          const brandHeader = document.createElement('h2');
+          brandHeader.textContent = `${brand} (${swatches.length})`;
+          brandGroup.appendChild(brandHeader);
+
+          // Swatch row
+          const swatchRow = document.createElement('div');
+          swatchRow.className = 'swatch-row';
+          swatches.forEach(swatch => {
+            const swatchContainer = document.createElement('div');
+            swatchContainer.style.display = 'flex';
+            swatchContainer.style.flexDirection = 'column';
+            swatchContainer.style.alignItems = 'center';
+
+            const swatchDiv = document.createElement('div');
+            swatchDiv.className = 'swatch';
+            swatchDiv.style.backgroundColor = swatch.color;
+
+            // Adjust font color for readability
+            const hex = swatch.color.replace('#', '');
+            const r = parseInt(hex.substring(0,2), 16);
+            const g = parseInt(hex.substring(2,4), 16);
+            const b = parseInt(hex.substring(4,6), 16);
+            const brightness = (r * 299 + g * 587 + b * 114) / 1000;
+
+            swatchDiv.innerHTML = `
+              ${swatch.subType && swatch.subType.trim().toLowerCase() === 'matte' ? `<span class="swatch-matte-badge">Matte</span>` : ''}
+              <div class="swatch-info" style="color:${brightness > 128 ? '#222' : '#fff'}; position: relative; z-index: 3;">
+                <strong>${swatch.name}</strong>
+              </div>
+              ${swatch.subType && swatch.subType.trim().toLowerCase() === 'sparkle' ? `
+                <div class="swatch-sparkle">
+                  <span class="swatch-sparkle-star" style="top:8px;left:18px;font-size:1.1em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:12px;left:60px;font-size:0.7em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:18px;left:110px;font-size:1.2em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:25px;left:170px;font-size:0.8em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:40px;left:30px;font-size:0.6em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:55px;left:80px;font-size:1em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:65px;left:150px;font-size:0.9em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:20px;left:90px;font-size:0.5em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:35px;left:120px;font-size:0.7em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:60px;left:40px;font-size:0.8em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:10px;left:180px;font-size:0.6em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:70px;left:100px;font-size:0.7em;">*</span>
+                  <span class="swatch-sparkle-star" style="top:50px;left:170px;font-size:0.5em;">*</span>
+                </div>
+              ` : ''}
+              ${swatch.subType && swatch.subType.trim().toLowerCase() === 'metallic' ? '<div class="swatch-reflect"></div>' : ''}
+              ${swatch.subType && swatch.subType.trim().toLowerCase() === 'translucent' ? '<div class="swatch-translucent"></div>' : ''}
+            `;
+
+            const detailsDiv = document.createElement('div');
+            detailsDiv.className = 'swatch-details';
+            detailsDiv.innerHTML = `
+              <span>Material: ${swatch.materialType || ''}</span><br>
+              <span>Sub Type: ${swatch.subType || ''}</span><br>
+              <span>Brand: ${swatch.brand || ''}</span><br>
+              <span>Hex: ${swatch.hex}</span><br>
+              ${swatch.purchaseLink ? `<a href="${swatch.purchaseLink}" target="_blank" rel="noopener">Purchase</a>` : ''}
+            `;
+
+            swatchContainer.appendChild(swatchDiv);
+            swatchContainer.appendChild(detailsDiv);
+            swatchRow.appendChild(swatchContainer);
+          });
+          brandGroup.appendChild(swatchRow);
+          container.appendChild(brandGroup);
         });
       });
   </script>

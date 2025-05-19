@@ -2,267 +2,597 @@
   "swatches": [
     {
       "name": "Brown",
-      "color": "#442D2D"
+      "color": "#442D2D",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#442D2D",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.hatchbox3d.com/products/hatchbox-abs-3d-printer-filament-dimensional-accuracy-0-03-mm-1-kg-spool-1-75-mm-brown?srsltid=AfmBOoqCWPuUTsrtp1q0N-cj5x1tIbfwbk84X58Ou4WABAF2DkDVpi9A"
     },
     {
       "name": "True Red",
-      "color": "#AE2927"
+      "color": "#AE2927",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#AE2927",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GO8I0/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
       "name": "Terracotta",
-      "color": "#A46A62"
+      "color": "#A46A62",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#A46A62",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8M3YR8/ref=asc_df_B0CK9GY627/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=6577851326547202864&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016254&hvtargid=pla-2247552469158&mcid=c4bba60673e73c6d94c99cfe48754d15&th=1"
     },
     {
       "name": "Prusa Orange",
-      "color": "#DC5317"
+      "color": "#DC5317",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#DC5317",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-prusa-orange"
     },
     {
       "name": "Army Brown",
-      "color": "#81685D"
+      "color": "#81685D",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#81685D",
+      "brand": "Panchroma",
+      "purchaseLink": "https://www.amazon.com/Polymaker-Panchroma-Filament-Printing-Polyterra/dp/B0D7ZXL4GZ?th=1"
     },
     {
       "name": "Skin",
-      "color": "#D3B2A1"
+      "color": "#D3B2A1",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#D3B2A1",
+      "brand": "3D Solutech",
+      "purchaseLink": "https://www.amazon.com/3D-Solutech-Printer-Filament-1-75MM/dp/B00Y6RCY8O"
     },
     {
       "name": "True Orange",
-      "color": "#D36A31"
+      "color": "#D36A31",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#D36A31",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0EE1D4/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
       "name": "Copper",
-      "color": "#845A41"
+      "color": "#845A41",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#845A41",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1D1JM/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Beige",
-      "color": "#E0CEC1"
+      "color": "#E0CEC1",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#E0CEC1",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1CZUI/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Wood Brown",
-      "color": "#B58763"
+      "color": "#B58763",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#B58763",
+      "brand": "PolyTerra",
+      "purchaseLink": "https://www.amazon.com/Polymaker-Filament-1-75mm-Peanut-Carton/dp/B099MTC9TJ/?_encoding=UTF8&pd_rd_w=wdoKB&content-id=amzn1.sym.255b3518-6e7f-495c-8611-30a58648072e%3Aamzn1.symc.a68f4ca3-28dc-4388-a2cf-24672c480d8f&pf_rd_p=255b3518-6e7f-495c-8611-30a58648072e&pf_rd_r=FHRY5J545M85N4YHFPA4&pd_rd_wg=OR7Fu&pd_rd_r=99e15731-dec2-4609-bffc-888b2254ef6d&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1"
     },
     {
       "name": "Light Orange",
-      "color": "#E0741F"
+      "color": "#E0741F",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#E0741F",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Filament-Dimensional-Accuracy-Printing/dp/B09WWW4GZH?th=1"
     },
     {
       "name": "Light Brown",
-      "color": "#BD9B7F"
+      "color": "#BD9B7F",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#BD9B7F",
+      "brand": "Overture",
+      "purchaseLink": "https://www.amazon.com/OVERTURE-Filament-Dimensional-Accuracy-Chocolate/dp/B08HVP2Q1C/ref=sr_1_1_sspa?crid=1HTR26JUCQJPS&dib=eyJ2IjoiMSJ9.JaJTFMFG7JXwSRu3N7suYeId__8VrSqvz4v3N6xZhD1mkhWs0cKz3tfZr3jhQEMFp-VoJ2x23aMZTdhfqOch5bRmtxw3a_H1WI5KCGQS_qDy6Uh7wR6ND27zSrDjTnHK0IsfDErqvJHUfadywLShL7mWQdKsQGAwpJXyWbb6Qb1GvQt7izT2_jwuwUMFFMnQTkazJd3cjA0uHRDqRrAszPLsh4RYF6__19d4jFSu9uazuJvZafVYs6LoaRhq2O5ihlxoymYqSRLNbXEcnvNRhKBR3FsQuzJult2HGKERggw.GrXh-_vMJIGa1NWVBPU_qf77kVBIiKLs3Mk4SaFfkNY&dib_tag=se&keywords=overture%2Bpla%2Blight%2Bbrown%2Bmatte&qid=1711931949&s=industrial&sprefix=overture%2Bpla%2Blight%2Bbrown%2Bmatte%2Cindustrial%2C89&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "Brown",
-      "color": "#876E58"
+      "color": "#876E58",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#876E58",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8HR699/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYps2Ze6R4wL6MnyBcKHhR9tz7lMnWz0BOT8UpSWgPj6mAEgjcx78tGtxEodjlUXLb5gYd0OBCd-FBKXl_y0A-N2LZf8eqfGlhYLVsMuNbUC6rQRj9N0ym8JGniKXJPfCUYNhEAoLdmSo20eMTuZNZgIpNVtzc7upPvhDmMgH_TUX5L6f3WFoyoIGHi4RsajYWBrnesrcfHyRdWJ3fYgY0Uro.fWX55b6JcxIycwGQLmTYSSGEIGHiSGTcwLrECm_rPPE&dib_tag=se&hvadid=709981086607&hvdev=c&hvlocphy=9016261&hvnetw=g&hvqmt=b&hvrand=10060992156284842567&hvtargid=kwd-1545346375382&hydadcr=8490_13654109&keywords=hatchbox%2Bmatt%2Bpla&qid=1732282998&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "Peanut",
-      "color": "#BF9C7D"
+      "color": "#BF9C7D",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#BF9C7D",
+      "brand": "PolyTerra",
+      "purchaseLink": "https://www.amazon.com/Polymaker-Matte-Filament-1-75mm-Carton/dp/B094FDSQHC/ref=asc_df_B099MTC9TJ/?tag=hyprod-20&linkCode=df0&hvadid=564680349318&hvpos=&hvnetw=g&hvrand=8977831342815267666&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016261&hvtargid=pla-1497621453021&mcid=4649f1f04611370fb8c48a258bc932bb&th=1"
     },
     {
       "name": "Kraft",
-      "color": "#BCA07A"
+      "color": "#BCA07A",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#BCA07A",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8C3NSC/ref=sr_1_3_pp?crid=2HT8CJGT76B0Y&dib=eyJ2IjoiMSJ9.vX1D_hTIZV32yY9_g-zOgvVoEl8vBWlVzZjCg6Iva4VH5rFSAfW9Zfjg-Wtac36A3yLOJcx6KZjXIDeSPMVJYmMEWu5asUboyFThVBlNXunx1rOWbbKNDWQKEh-Dep5bySHIMLxOJpkC7bd6T_oo0VvNBamJ1mDYq6tG91RCn799YkGt02HLG-u-4SzG6tTzKm2EHET-okrc81VzekuNZsxUlsKNQ31q7dDBb-wpbE4.iZ_F10OsRmQ1rkijkFpuqfpUB76ktXhK237HymSFs8c&dib_tag=se&keywords=hatchbox%2Bmatte%2Bpla&qid=1711031024&sprefix=hatchbox%2Bmatte%2Caps%2C79&sr=8-3&th=1"
     },
     {
       "name": "Gold",
-      "color": "#D8A14B"
+      "color": "#D8A14B",
+      "materialType": "PLA",
+      "subType": "Metallic",
+      "hex": "#D8A14B",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/gp/product/B09T959467/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1"
     },
     {
       "name": "Light Brown",
-      "color": "#B69A6B"
+      "color": "#B69A6B",
+      "materialType": "PLA",
+      "subType": "Plus",
+      "hex": "#B69A6B",
+      "brand": "Ataraxia Art",
+      "purchaseLink": "https://ataraxiaart.com/?product=ataraxia-art-pla-plus-filament-1-75mm-neat-winding-3d-printer-filament1-kg-dimensional-accuracy-0-03mm-with-vacuum-storage-resealable-bag-pantone-match-fit-most-fdm-printer-pla-light-brown"
     },
     {
       "name": "Max Mustard",
-      "color": "#C9A460"
+      "color": "#C9A460",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#C9A460",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/dp/B0CXZLKFZZ/ref=twister_B0CY11S63G?_encoding=UTF8&th=1"
     },
     {
       "name": "Real Yellow",
-      "color": "#DFC92B"
+      "color": "#DFC92B",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#DFC92B",
+      "brand": "3D Solutech",
+      "purchaseLink": "https://www.amazon.com/3D-Solutech-Filament-Dimensional-Accuracy/dp/B00ME75BGK"
     },
     {
       "name": "True Yellow",
-      "color": "#E8CC00"
+      "color": "#E8CC00",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#E8CC00",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GRREW/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
       "name": "Pastel Green",
-      "color": "#C8DF66"
+      "color": "#C8DF66",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#C8DF66",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1DAXE/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Lime Green",
-      "color": "#8ABF30"
+      "color": "#8ABF30",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#8ABF30",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B09WW5HJCV/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
       "name": "Green",
-      "color": "#8CAF65"
+      "color": "#8CAF65",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#8CAF65",
+      "brand": "MakeShaper",
+      "purchaseLink": "https://ultimate3dprintingstore.com/collections/pla-filament/products/makeshaper-pla-green"
     },
     {
       "name": "Cool Mint",
-      "color": "#BEC9B4"
+      "color": "#BEC9B4",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#BEC9B4",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B0CK9RWYGW/ref=sr_1_3_pp?crid=2HT8CJGT76B0Y&dib=eyJ2IjoiMSJ9.vX1D_hTIZV32yY9_g-zOgvVoEl8vBWlVzZjCg6Iva4VH5rFSAfW9Zfjg-Wtac36A3yLOJcx6KZjXIDeSPMVJYmMEWu5asUboyFThVBlNXunx1rOWbbKNDWQKEh-Dep5bySHIMLxOJpkC7bd6T_oo0VvNBamJ1mDYq6tG91RCn799YkGt02HLG-u-4SzG6tTzKm2EHET-okrc81VzekuNZsxUlsKNQ31q7dDBb-wpbE4.iZ_F10OsRmQ1rkijkFpuqfpUB76ktXhK237HymSFs8c&dib_tag=se&keywords=hatchbox%2Bmatte%2Bpla&qid=1711031024&sprefix=hatchbox%2Bmatte%2Caps%2C79&sr=8-3&th=1"
     },
     {
       "name": "Peak Green",
-      "color": "#85C469"
+      "color": "#85C469",
+      "materialType": "PLA",
+      "subType": "Plus",
+      "hex": "#85C469",
+      "brand": "eSUN",
+      "purchaseLink": "https://www.amazon.com/eSUN-1-75mm-Printer-Filament-Pantone/dp/B01EKEMQ0S/ref=asc_df_B01EKEMQ0S/?tag=&linkCode=df0&hvadid=312171611667&hvpos=&hvnetw=g&hvrand=2501173016192781941&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016261&hvtargid=pla-570816652525&mcid=9ac53ffd8f933f4487c1652b69e22027&ref=&adgrpid=61727971146&gclid=Cj0KCQjw2a6wBhCVARIsABPeH1vo4bTgJSexWfs6ANLePp01lvWrxZKfByFhHKvb7zDCFuqYDPZD5mwaAlK9EALw_wcB&th=1"
     },
     {
       "name": "Neon Green",
-      "color": "#6ED74B"
+      "color": "#6ED74B",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#6ED74B",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1D728/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Neon Green",
-      "color": "#3C9A33"
+      "color": "#3C9A33",
+      "materialType": "PLA",
+      "subType": "Translucent",
+      "hex": "#3C9A33",
+      "brand": "SeeMeCNC",
+      "purchaseLink": "https://www.seemecnc.com/collections/filament/products/1-75mm-uv-reactive-neon-green-atomic-filament-pla-1kg-spool"
     },
     {
       "name": "Max Green",
-      "color": "#007B39"
+      "color": "#007B39",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#007B39",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.hatchbox3d.com/collections/pla-max-1-75mm-filament/products/hb-pla-1kg1-75-grn"
     },
     {
       "name": "Starlight Comet",
-      "color": "#4B6B5B"
+      "color": "#4B6B5B",
+      "materialType": "PLA",
+      "subType": "Color Changing",
+      "hex": "#4B6B5B",
+      "brand": "PolyLite",
+      "purchaseLink": "https://www.amazon.com/Polymaker-Changeable-Starlight-Filament-Different/dp/B0BYJQM8G9/ref=asc_df_B0BYJRT2D6/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=4430608002467067516&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016261&hvtargid=pla-2204208245953&mcid=ef3c742a87a337e9a60888bbb496ee90&gad_source=1&th=1"
     },
     {
       "name": "True Green",
-      "color": "#00984F"
+      "color": "#00984F",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#00984F",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GQ2OS/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Mint Green",
-      "color": "#84D4B9"
+      "color": "#84D4B9",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#84D4B9",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/dp/B015I1D99O/ref=twister_B09WW4Z413?_encoding=UTF8&th=1"
     },
     {
       "name": "Grass Green",
-      "color": "#008167"
+      "color": "#008167",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#008167",
+      "brand": "yourDroid",
+      "purchaseLink": "https://www.roboter-bausatz.de/p/yourdroid-pla-filament-grasgruen-1.75mm-1kg"
     },
     {
       "name": "Seafoam Blue",
-      "color": "#B9CFCB"
+      "color": "#B9CFCB",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#B9CFCB",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-seablu?_pos=1&_sid=c23a5611b&_ss=r"
     },
     {
       "name": "Dual: Blue - Green",
-      "color": "#4C8482"
+      "color": "#4C8482",
+      "materialType": "PLA",
+      "subType": "Silk",
+      "hex": "#4C8482",
+      "brand": "Eryone",
+      "purchaseLink": "https://www.amazon.com/ERYONE-Filament-Printer-1-75mm-Coextrusion/dp/B09X2MBB3B/ref=asc_df_B0BN5T4N14/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=7622763855450997029&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016261&hvtargid=pla-1967430234170&mcid=977843b1bf1338bab3a48b29e960d1c5&gad_source=1&th=1"
     },
     {
       "name": "Baby Blue",
-      "color": "#6ACFD2"
+      "color": "#6ACFD2",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#6ACFD2",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B09WW6YWMH/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
       "name": "Light Blue",
-      "color": "#007EBB"
+      "color": "#007EBB",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#007EBB",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1CWEM/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
       "name": "Gray Blue",
-      "color": "#637888"
+      "color": "#637888",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#637888",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B09WW6QC3X/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Blue",
-      "color": "#094376"
+      "color": "#094376",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#094376",
+      "brand": "PolyLite",
+      "purchaseLink": "https://us.polymaker.com/products/polylite-petg?variant=39574344433721&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoowBYpARF85fGlu1VRw0HDQ9xr89KuohOrHcY2GAxeY5_Thrpb8RiI"
     },
     {
       "name": "True Blue",
-      "color": "#17459A"
+      "color": "#17459A",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#17459A",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GPC80/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
       "name": "Max Dark Blue",
-      "color": "#313B51"
+      "color": "#313B51",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#313B51",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0CY13NWR4/ref=sr_1_1_sspa?crid=MDZZED3P40CX&dib=eyJ2IjoiMSJ9.J75lwbM-N0HgxblO2Ae1IVNY2bgHwGWKTdaCyn8mTNM8sa3JJF55xYxT1G2xS4grtKaDnDJUh1-iufJiL40_DSVJA3SXLV3u4PpkcDaMr474r7n8KpgeN1TE3iAV2VRLwAoJpMntLpefCBlEJ2phk6a_MzDCZW5_z7Nwnu8BljYBU04G8Bnx2kfhw4U4Wuu-Qxv9Z_rAd6Haovyaajo5A9w_gcxwaGg9vnhZ0ZzczgxyM_Y_mUFA1tqlfJL21Zmxg7sv2PB8svIcT85oVuLGUhZ7tMzI0wNO5F1J-vWVKEE.zI5Rxt8iNYmpjEJfWnfWTNMG0_VhwHGFizIn6JqwXqU&dib_tag=se&keywords=hatchbox%2Bpla&qid=1712799683&s=industrial&sprefix=hatchbox%2Bpla%2Cindustrial%2C147&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "Light Purple",
-      "color": "#5C60A9"
+      "color": "#5C60A9",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#5C60A9",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B09WW47SJD/ref=sr_1_2_sspa?crid=1MZ80T0KJHGS9&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJnomxp5DbsQ2Pr3FzT_NIhmyl2xxfyTIeDzy822xJqlNcID9qC13P02_oNp6VBiWwNLHWEh4HYJdlY1MAJx_Kto2l9SFkAl5cv96D86X0DhbhCU6U5zU6qGtwHoqGRObqUG5Wvwtk1_oETqtegvE-IqAoeRUn2KEabPy4SMLR9ea5W046TUckoCxOa_G7G2S6G4SYdwM7m_laL23YosQIHSQL9jK4yR_wgP233fSQSy4.YahwppGFqaNMOVRdIxGxNR67nPZYqRZPC2XrMvwSpR4&dib_tag=se&keywords=hatchbox%2Bpla&qid=1717766883&s=industrial&sprefix=hatchbox%2Bpla%2Cindustrial%2C92&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "Midnight Purple",
-      "color": "#53408E"
+      "color": "#53408E",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#53408E",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B09WW63ZJV/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
       "name": "Purple",
-      "color": "#973C92"
+      "color": "#973C92",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#973C92",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00MEZDRPO/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Purple",
-      "color": "#8F1C7C"
+      "color": "#8F1C7C",
+      "materialType": "PLA",
+      "subType": "Pro",
+      "hex": "#8F1C7C",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-PPLA-1KG1-75-BLK-Performance-Filament-Dimensional/dp/B017UZB1K0?th=1"
     },
     {
       "name": "True Pink",
-      "color": "#D46986"
+      "color": "#D46986",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#D46986",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00MEZDPS8/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Cherry Red",
-      "color": "#8F2637"
+      "color": "#8F2637",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#8F2637",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B0CK9GY627/ref=asc_df_B0CK9GY627/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=6577851326547202864&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016254&hvtargid=pla-2247552469158&mcid=c4bba60673e73c6d94c99cfe48754d15&th=1"
     },
     {
       "name": "Black",
-      "color": "#25282A"
+      "color": "#25282A",
+      "materialType": "PLA",
+      "subType": "Silk",
+      "hex": "#25282A",
+      "brand": "Sunlu",
+      "purchaseLink": "https://www.amazon.com/Filament-SUNLU-1-75mm%EF%BC%8CSmooth-Surface%EF%BC%8CGreat-Printers%EF%BC%8CDimensional/dp/B0B5Z221QB/ref=sr_1_1_sspa?crid=1AW6VRLY5EDW8&dib=eyJ2IjoiMSJ9.c-_0F20P4OZvxX7DUXaHdDi6VxY57J59A_qKIpItUmRPqlMy_n90Uvc_X1s8U1bOOhx_GrHY-nzwTQ1wv_bULbguSREEftRxsTXRvG9_vx8LbolVhc5hjVw4zSH2Cni52VL6qXpR8EmIK_TKMpKzIywEhrQ-tQrpm2EzCghZzKHROzdk5cVxwAF2Sfxu76cZaQ9ZekKS4dQLgp1tBNrr8C_gFm9wsZeCep8kgRLlBvrY-fZTAGNXF3vst_T9tFATpiq4fsjeboJfLi9XmEus1Ukq1lC8v6uDI8HWOQLyTXk.Hg2ZTLUy3_ckbdvg98M4i6B2eTrDwVy2U_MNh2xgAfA&dib_tag=se&keywords=sunlu%2Bsilk%2Bpla&qid=1712755814&s=industrial&sprefix=sunlu%2Bsil%2Cindustrial%2C89&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "Black",
-      "color": "#2B2829"
+      "color": "#2B2829",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#2B2829",
+      "brand": "AmazonBasics",
+      "purchaseLink": "https://www.amazon.pl/Amazon-Filament-drukarki-tworzywa-sztucznego/dp/B07T6WLFML"
     },
     {
       "name": "True Black",
-      "color": "#302E31"
+      "color": "#302E31",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#302E31",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/dp/B00J0ECR5I/ref=twister_B09WW4Z413?_encoding=UTF8&th=1"
     },
     {
       "name": "Galaxy Black",
-      "color": "#424240"
+      "color": "#424240",
+      "materialType": "PLA",
+      "subType": "Sparkle",
+      "hex": "#424240",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/#description"
     },
     {
       "name": "Ash Gray",
-      "color": "#404549"
+      "color": "#404549",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#404549",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-agry?srsltid=AfmBOopUcfDuUj8l3D0j6m82OglmGd6BQ7pJ0JvKIMzdLBMdYvoDGGJN"
     },
     {
       "name": "Space Gray",
-      "color": "#747677"
+      "color": "#747677",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#747677",
+      "brand": "Overture",
+      "purchaseLink": "https://www.amazon.com/Overture-Filament-Professional-Toughness-Dimensional/dp/B07VJYGM6B/ref=sr_1_2_sspa?crid=38FEKNXK5AXHS&dib=eyJ2IjoiMSJ9.ReZl5gPyyJbBX6ibnBdUHgfkcjqKqGrXggM9vx9-cEM9PTRxmRWEgPCz3_Tp1O3x1LOAYKlwm2tqNuW08c8ShuZOMkcbub_cFf1mVeg9UAnNVCmkocv7xA3S_gzqQX17FjmTdtDcBNphMElRwROujfl8AgkU8XQw1rjc3wHvjMohoUGtH_MSZeGmg_q74jj59GK_x20Xh3B-RaqawdUaNifGsWAc1jDRB7z1gV4TzCQ.8EbGX88NYIRIZOne749lNRdV8qL8ixjUNrVnyyKC8og&dib_tag=se&keywords=overture%2Bspace%2Bgray%2Bpla&qid=1711488729&sprefix=overture%2Bspace%2Bgray%2Bpla%2Caps%2C77&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "Transparent",
-      "color": "#8E8B86"
+      "color": "#8E8B86",
+      "materialType": "PLA",
+      "subType": "Translucent",
+      "hex": "#8E8B86",
+      "brand": "Sunlu",
+      "purchaseLink": "https://www.amazon.com/SUNLU-Filament-Transparent-Dimensional-Accuracy/dp/B07ZNG4L9P/ref=asc_df_B07ZNG4L9P/?tag=hyprod-20&linkCode=df0&hvadid=459577916351&hvpos=&hvnetw=g&hvrand=12268328689334802436&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016261&hvtargid=pla-1136132240832&mcid=6be5814fa3cd3e26aa904eac1c98ffb1&gclid=Cj0KCQjw2PSvBhDjARIsAKc2cgNjDw6f3G_3JrgPPW60Wul25YV1Jf1pGB-AejfRuZIuTHjAUkW-_nwaAsGPEALw_wcB&th=1"
     },
     {
       "name": "Natural",
-      "color": "#8E8E8E"
+      "color": "#8E8E8E",
+      "materialType": "PLA",
+      "subType": "Translucent",
+      "hex": "#8E8E8E",
+      "brand": "MakeShaper",
+      "purchaseLink": "https://www.makeshaper.com/product/pla-filament"
     },
     {
       "name": "True Silver",
-      "color": "#8E8E90"
+      "color": "#8E8E90",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#8E8E90",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00MEZEEJ2/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Gray",
-      "color": "#8C8F8F"
+      "color": "#8C8F8F",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#8C8F8F",
+      "brand": "Eryone",
+      "purchaseLink": "https://www.amazon.com/Filament-1-75mm-ERYONE-Printing-Printer/dp/B07GNKDHCD/ref=sr_1_3?crid=20A71B3TNH53V&dib=eyJ2IjoiMSJ9.w8XmBVDyPmsR56OJs5KmGZSOjrt8DKSSdLk4-1IwD6N6doVn1s_SYtLvP_IMxnbnA3HIAWlaVwmo_qbBc-D5QdWSG1EzO5M8qBTYB8ZFLWUJIdZIdrGIfp16AYZDaR5mnqv-NWL0-wl-LmtA_envt-Y-WLMw6vtLKLB4MfhXscMTwhMjVUnd1ILiqCeP_OhT-2_yH7iOTfrFpgZjOyJ3mpApuCeTNmlj6H3p0fDuV5w.JN9Fl7sY094Of2PwtR1odc6nUcJzbSWg_nCSWTS77lA&dib_tag=se&keywords=eryone%2Bfilament%2Bgray&qid=1711491167&sprefix=eryone%2Bfilament%2Bgray%2Caps%2C90&sr=8-3&th=1"
     },
     {
       "name": "Cool Gray",
-      "color": "#989A99"
+      "color": "#989A99",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#989A99",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1CYFE/ref=sr_1_1?dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrayIx7ZQH9kSKupzMVAtAhBnvW_gwQIPD-gZ8uXjEBDKSmWNiKdvi4aWc99b6X4pUTvSkpbYdruywYUJBR-_IJbhbk8hAzomaF1yEYvfC1tjx_FpXILoxm7887xaNRGT3oAbZyWGQij6uC62DgEQmOWAftisgoq1mP9IOw0SaSgVSlASb6Arx-YomvYyZIOwGZy92mtNYpOHGNRqDbXmlVEQ.8OzeqpVZ2gBqTW72EvqdYhLPJ4klvd91Lk-dNwjoOCM&dib_tag=se&hvadid=580878722529&hvdev=c&hvlocphy=9016261&hvnetw=g&hvqmt=b&hvrand=6078365362487083671&hvtargid=kwd-301276193970&hydadcr=8490_13507418&keywords=hatchbox%2Bpla%2B1.75&qid=1708956577&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "Natural",
-      "color": "#A8AEB3"
+      "color": "#A8AEB3",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#A8AEB3",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B0CP9X8BJZ/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
       "name": "Parthenon Gray",
-      "color": "#ADB4BB"
+      "color": "#ADB4BB",
+      "materialType": "PLA",
+      "subType": "Pro",
+      "hex": "#ADB4BB",
+      "brand": "MatterHackers",
+      "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MHW2R5AY"
     },
     {
       "name": "White",
-      "color": "#D1D4DB"
+      "color": "#D1D4DB",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#D1D4DB",
+      "brand": "Elegoo",
+      "purchaseLink": "https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Cardboard/dp/B0BM7446JH/ref=asc_df_B0BM7446JH/?tag=hyprod-20&linkCode=df0&hvadid=673692537739&hvpos=&hvnetw=g&hvrand=8088917473020781475&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016261&hvtargid=pla-2200865268671&mcid=4b307eeb11af3e8ea071f51e288280b4&th=1"
     },
     {
       "name": "White",
-      "color": "#E0E4E7"
+      "color": "#E0E4E7",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#E0E4E7",
+      "brand": "Eryone",
+      "purchaseLink": "https://www.amazon.com/ERYONE-Printer-Filament-Dimensional-Accuracy/dp/B08JZ6QP9M/ref=sr_1_2_sspa?crid=38WD8C8EBABAK&dib=eyJ2IjoiMSJ9.Zh8G138en2IR27BuHnvEjexG33BwaMU3Rkpw304t_uGgHWGAvwEKSO3yWc14z53uT4jgG-HKJJB-QEsompdZVksqIAO8YAWIlsttfdti9aTDvNrAvyeNrUQ1gw0pGawONs1dwUde-H_ap6aWG5UX20Ie2F8nR7-zlPy5LV8kVWDbPW_qDvXb48aQhm2XlVRcBMfmhLKHn6NjIJ-BMNzwjqVcucd3wpRh0mGVEWNDU70RAmk3O96tCcbQnTk9M99lIZwvBVhwySUZYfmAqGwC_y8hiLcbMxFj7Af0yT_GmRE.QNmF9sYUngvWdf8ffIpgJ4AVOImOTvaVGrIlw2wVDSY&dib_tag=se&keywords=eryone%2Bpla%2Bwhite&qid=1711118161&s=industrial&sprefix=eryone%2Bpla%2Bwhite%2Cindustrial%2C204&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "White",
-      "color": "#E5E7E6"
+      "color": "#E5E7E6",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#E5E7E6",
+      "brand": "Overture",
+      "purchaseLink": "https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGZNM34/ref=sr_1_1_sspa?crid=3T09N4HE2PJDG&dib=eyJ2IjoiMSJ9.lHRwcjICdjXk-pXAAdd2OxfN2SdYu7iFdfTYC2-YHMUJmZWce_I5pz0hyOuSJmyG0iYyh4T84nuqlsTLlxPLayuK52MALSPWWdHmxU5hFN-nLGeLqT69Us-wKtAK3lMpoXsS67cH0f8u2mKy-Jt2axEg3jG8MbiWDthN0eGajnHWEiHA_DwxFC-ygbArwD_lA7C9TMmHZqirq-jBSsh_gQEaExmY37xKR3S9abXt-z5ICABEeqVtBIJ3Zt1BWtZxn8RonFHUr1ZtI94iIpr8UI1ph4T6nQbWnkPNYieGv0w.whohSfpHlEesZxIsnSPzpTZ5ez-bvDrgQWNpwth3zLk&dib_tag=se&keywords=overture%2Bpla%2Bwhite&qid=1711117352&s=industrial&sprefix=overture%2Bpla%2Bwhite%2Cindustrial%2C84&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "True White",
-      "color": "#EAEAF1"
+      "color": "#EAEAF1",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#EAEAF1",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GMMP6?ref_=ast_sto_dp&th=1"
     },
     {
       "name": "True White",
-      "color": "#EAEAF1"
+      "color": "#EAEAF1",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#EAEAF1",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GMMP6?ref_=ast_sto_dp&th=1"
     },
     {
       "name": "Paper White",
-      "color": "#ECECF0"
+      "color": "#ECECF0",
+      "materialType": "PLA",
+      "subType": "Pro",
+      "hex": "#ECECF0",
+      "brand": "MatterHackers",
+      "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MATCZF0G"
     },
     {
       "name": "White",
-      "color": "#EBEDEC"
+      "color": "#EBEDEC",
+      "materialType": "PLA",
+      "subType": "Pro",
+      "hex": "#EBEDEC",
+      "brand": "MatterHackers",
+      "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MKVQAQ28"
     }
   ]
 }
