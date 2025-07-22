@@ -63,7 +63,7 @@
               <div class="swatch-info" style="color:${brightness > 128 ? '#222' : '#fff'}; position: relative; z-index: 3;">
                 <strong>${swatch.name}</strong>
               </div>
-              ${swatch.subType && swatch.subType.trim().toLowerCase() === 'sparkle' ? `
+              ${swatch.subType && ['sparkle', 'glitter'].includes(swatch.subType.trim().toLowerCase()) ? `
                 <div class="swatch-sparkle">
                   <span class="swatch-sparkle-star" style="top:8px;left:18px;font-size:1.1em;">*</span>
                   <span class="swatch-sparkle-star" style="top:12px;left:60px;font-size:0.7em;">*</span>
