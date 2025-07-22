@@ -19,6 +19,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GO8I0/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
+      "name": "Lipstick Red",
+      "color": "#B82A24",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#B82A24",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-lipstick-red"
+    },
+    {
       "name": "Terracotta",
       "color": "#A46A62",
       "materialType": "PLA",
@@ -179,6 +188,15 @@
       "hex": "#E8CC00",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GRREW/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
+    },
+    {
+      "name": "Army Green",
+      "color": "#464B2E",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#464B2E",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-army-green"
     },
     {
       "name": "Pastel Green",
@@ -406,6 +424,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00MEZDPS8/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
+      "name": "Mystic Brown",
+      "color": "#4B2C32",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#4B2C32",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-mystic-brown"
+    },
+    {
       "name": "Cherry Red",
       "color": "#8F2637",
       "materialType": "PLA",
@@ -460,6 +487,15 @@
       "purchaseLink": "https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-agry?srsltid=AfmBOopUcfDuUj8l3D0j6m82OglmGd6BQ7pJ0JvKIMzdLBMdYvoDGGJN"
     },
     {
+      "name": "Mystic Green",
+      "color": "#525440",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#525440",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-mystic-green"
+    },
+    {
       "name": "Space Gray",
       "color": "#747677",
       "materialType": "PLA",
@@ -512,6 +548,15 @@
       "hex": "#989A99",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1CYFE/ref=sr_1_1?dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrayIx7ZQH9kSKupzMVAtAhBnvW_gwQIPD-gZ8uXjEBDKSmWNiKdvi4aWc99b6X4pUTvSkpbYdruywYUJBR-_IJbhbk8hAzomaF1yEYvfC1tjx_FpXILoxm7887xaNRGT3oAbZyWGQij6uC62DgEQmOWAftisgoq1mP9IOw0SaSgVSlASb6Arx-YomvYyZIOwGZy92mtNYpOHGNRqDbXmlVEQ.8OzeqpVZ2gBqTW72EvqdYhLPJ4klvd91Lk-dNwjoOCM&dib_tag=se&hvadid=580878722529&hvdev=c&hvlocphy=9016261&hvnetw=g&hvqmt=b&hvrand=6078365362487083671&hvtargid=kwd-301276193970&hydadcr=8490_13507418&keywords=hatchbox%2Bpla%2B1.75&qid=1708956577&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+    },
+    {
+      "name": "Gravity Grey",
+      "color": "#9A9FA3",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#9A9FA3",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-gravity-grey"
     },
     {
       "name": "Natural",
