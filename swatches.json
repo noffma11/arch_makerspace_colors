@@ -427,7 +427,7 @@
       "name": "Mystic Brown",
       "color": "#4B2C32",
       "materialType": "PLA",
-      "subType": "",
+      "subType": "Polychromatic",
       "hex": "#4B2C32",
       "brand": "Prusament",
       "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-mystic-brown"
@@ -472,7 +472,7 @@
       "name": "Galaxy Black",
       "color": "#424240",
       "materialType": "PLA",
-      "subType": "Sparkle",
+      "subType": "Glitter",
       "hex": "#424240",
       "brand": "Prusament",
       "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/#description"
@@ -490,7 +490,7 @@
       "name": "Mystic Green",
       "color": "#525440",
       "materialType": "PLA",
-      "subType": "",
+      "subType": "Polychromatic",
       "hex": "#525440",
       "brand": "Prusament",
       "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-mystic-green"
