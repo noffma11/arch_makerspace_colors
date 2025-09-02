@@ -469,6 +469,24 @@
       "purchaseLink": "https://www.amazon.com/dp/B00J0ECR5I/ref=twister_B09WW4Z413?_encoding=UTF8&th=1"
     },
     {
+      "name": "Black",
+      "color": "#343737",
+      "materialType": "ASA",
+      "subType": "",
+      "hex": "#343737",
+      "brand": "Bambu Lab",
+      "purchaseLink": "https://us.store.bambulab.com/products/asa-filament?srsltid=AfmBOorHwh4rqNYh9aCI8kPnbiS0mtwvutlMdddlp4Tw1eIuWSnwlMDS&t=1756818798803&id=41227780817032"
+    },
+    {
+      "name": "Black",
+      "color": "#3C3F40",
+      "materialType": "ASA",
+      "subType": "",
+      "hex": "#3C3F40",
+      "brand": "PolyLite",
+      "purchaseLink": "https://www.amazon.com/Polymaker-Filament-Resistant-Weather-Cardboard/dp/B09DKPYYBP?th=1"
+    },
+    {
       "name": "Galaxy Black",
       "color": "#424240",
       "materialType": "PLA",
@@ -638,15 +656,6 @@
       "hex": "#EBEDEC",
       "brand": "MatterHackers",
       "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MKVQAQ28"
-    },
-    {
-      "name": "Black",
-      "color": "#343737",
-      "materialType": "ASA",
-      "subType": "",
-      "hex": "#343737",
-      "brand": "Bambu Lab",
-      "purchaseLink": "https://us.store.bambulab.com/products/asa-filament?srsltid=AfmBOorHwh4rqNYh9aCI8kPnbiS0mtwvutlMdddlp4Tw1eIuWSnwlMDS&t=1756818798803&id=41227780817032"
     }
   ]
 }
