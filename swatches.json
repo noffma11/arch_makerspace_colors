@@ -656,6 +656,15 @@
       "hex": "#EBEDEC",
       "brand": "MatterHackers",
       "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MKVQAQ28"
+    },
+    {
+      "name": "White",
+      "color": "#F1F1EA",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#F1F1EA",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
     }
   ]
 }
