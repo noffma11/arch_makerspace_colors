@@ -638,6 +638,15 @@
       "hex": "#EBEDEC",
       "brand": "MatterHackers",
       "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MKVQAQ28"
+    },
+    {
+      "name": "Black",
+      "color": "#343737",
+      "materialType": "ASA",
+      "subType": "",
+      "hex": "#343737",
+      "brand": "Bambu Lab",
+      "purchaseLink": "https://us.store.bambulab.com/products/asa-filament?srsltid=AfmBOorHwh4rqNYh9aCI8kPnbiS0mtwvutlMdddlp4Tw1eIuWSnwlMDS&t=1756818798803&id=41227780817032"
     }
   ]
 }
