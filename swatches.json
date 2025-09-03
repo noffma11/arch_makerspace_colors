@@ -674,6 +674,24 @@
       "hex": "#CECBC6",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-design-white?variant=39502755004501"
+    },
+    {
+      "name": "Quarter White",
+      "color": "#E7E8E4",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#E7E8E4",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-quarter-white?variant=39502749007957"
+    },
+    {
+      "name": "Arctic White",
+      "color": "#E4E9E9",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#E4E9E9",
+      "brand": "SeeMeCNC",
+      "purchaseLink": "https://www.amazon.com/"
     }
   ]
 }
