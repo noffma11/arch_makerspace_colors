@@ -665,6 +665,15 @@
       "hex": "#F1F1EA",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
+    },
+    {
+      "name": "Design White",
+      "color": "#CECBC6",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#CECBC6",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-design-white?variant=39502755004501"
     }
   ]
 }
