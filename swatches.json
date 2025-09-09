@@ -164,21 +164,12 @@
     },
     {
       "name": "Max Mustard",
-      "color": "#C9A460",
-      "materialType": "PLA",
-      "subType": "Max",
-      "hex": "#C9A460",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/dp/B0CXZLKFZZ/ref=twister_B0CY11S63G?_encoding=UTF8&th=1"
-    },
-    {
-      "name": "Max Gray",
       "color": "#C9A45F",
       "materialType": "PLA",
       "subType": "Max",
       "hex": "#C9A45F",
       "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZDV78W?th=1"
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Mustard-Filament-Diameter-Printing/dp/B0FGZFDVMH?th=1"
     },
     {
       "name": "Real Yellow",
@@ -278,15 +269,6 @@
       "hex": "#007D38",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZLC66J?th=1"
-    },
-    {
-      "name": "Max Green",
-      "color": "#007B39",
-      "materialType": "PLA",
-      "subType": "Max",
-      "hex": "#007B39",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.hatchbox3d.com/collections/pla-max-1-75mm-filament/products/hb-pla-1kg1-75-grn"
     },
     {
       "name": "Starlight Comet",
@@ -586,13 +568,13 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1CYFE/ref=sr_1_1?dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrayIx7ZQH9kSKupzMVAtAhBnvW_gwQIPD-gZ8uXjEBDKSmWNiKdvi4aWc99b6X4pUTvSkpbYdruywYUJBR-_IJbhbk8hAzomaF1yEYvfC1tjx_FpXILoxm7887xaNRGT3oAbZyWGQij6uC62DgEQmOWAftisgoq1mP9IOw0SaSgVSlASb6Arx-YomvYyZIOwGZy92mtNYpOHGNRqDbXmlVEQ.8OzeqpVZ2gBqTW72EvqdYhLPJ4klvd91Lk-dNwjoOCM&dib_tag=se&hvadid=580878722529&hvdev=c&hvlocphy=9016261&hvnetw=g&hvqmt=b&hvrand=6078365362487083671&hvtargid=kwd-301276193970&hydadcr=8490_13507418&keywords=hatchbox%2Bpla%2B1.75&qid=1708956577&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
-      "name": "Max Mustard",
+      "name": "Max Gray",
       "color": "#999D9E",
       "materialType": "PLA",
       "subType": "Max",
       "hex": "#999D9E",
       "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Mustard-Filament-Diameter-Printing/dp/B0FGZFDVMH?th=1"
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZDV78W?th=1"
     },
     {
       "name": "Gravity Grey",
@@ -683,15 +665,6 @@
       "hex": "#E4E9E9",
       "brand": "SeeMeCNC",
       "purchaseLink": "https://www.amazon.com/"
-    },
-    {
-      "name": "True White",
-      "color": "#EAEAF1",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#EAEAF1",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GMMP6?ref_=ast_sto_dp&th=1"
     },
     {
       "name": "True White",
