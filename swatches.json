@@ -692,6 +692,42 @@
       "hex": "#F1F1EA",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
+    },
+    {
+      "name": "Max White",
+      "color": "#E4E8E7",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#E4E8E7",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGYXVH2T?th=1"
+    },
+    {
+      "name": "Max Mustard",
+      "color": "#999D9E",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#999D9E",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Mustard-Filament-Diameter-Printing/dp/B0FGZFDVMH?th=1"
+    },
+    {
+      "name": "Max Green",
+      "color": "#007D38",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#007D38",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZLC66J?th=1"
+    },
+    {
+      "name": "Max Gray",
+      "color": "#C9A45F",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#C9A45F",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZDV78W?th=1"
     }
   ]
 }
