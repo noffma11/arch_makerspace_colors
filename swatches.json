@@ -262,13 +262,13 @@
       "purchaseLink": "https://www.seemecnc.com/collections/filament/products/1-75mm-uv-reactive-neon-green-atomic-filament-pla-1kg-spool"
     },
     {
-      "name": "Max Green",
-      "color": "#007D38",
+      "name": "Neon Green",
+      "color": "#3C9A33",
       "materialType": "PLA",
-      "subType": "Max",
-      "hex": "#007D38",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZLC66J?th=1"
+      "subType": "Translucent",
+      "hex": "#3C9A33",
+      "brand": "SeeMeCNC",
+      "purchaseLink": "https://www.seemecnc.com/collections/filament/products/1-75mm-uv-reactive-neon-green-atomic-filament-pla-1kg-spool"
     },
     {
       "name": "Starlight Comet",
