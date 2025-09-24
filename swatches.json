@@ -739,6 +739,33 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-gun-metal-grey?variant=39502750842965"
     },
     {
+      "name": "Natural ",
+      "color": "#82817E",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#82817E",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-natural?_pos=2&_psq=natural&_ss=e&_v=1.0"
+    },
+    {
+      "name": "Tree Green",
+      "color": "#287B36",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#287B36",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-green?_pos=1&_psq=tree+green&_ss=e&_v=1.0"
+    },
+    {
+      "name": "Golden Winner Glitter",
+      "color": "#8F7228",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#8F7228",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner?_pos=1&_psq=golden&_ss=e&_v=1.0"
+    },
+    {
       "name": "Black",
       "color": "#262325",
       "materialType": "PLA",
