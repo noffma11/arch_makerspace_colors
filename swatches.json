@@ -710,6 +710,42 @@
       "hex": "#F1F1EA",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
+    },
+    {
+      "name": "Blue Whale Grey",
+      "color": "#385C81",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#385C81",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-whale-grey?_pos=1&_psq=blue+grey&_ss=e&_v=1.0"
+    },
+    {
+      "name": "Tree Brown",
+      "color": "#52382F",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#52382F",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-brown?_pos=1&_psq=tree+brown&_ss=e&_v=1.0"
+    },
+    {
+      "name": "Gun Metal Grey",
+      "color": "#717476",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#717476",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-gun-metal-grey?variant=39502750842965"
+    },
+    {
+      "name": "Black",
+      "color": "#262325",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#262325",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-black?variant=39502749433941"
     }
   ]
 }
