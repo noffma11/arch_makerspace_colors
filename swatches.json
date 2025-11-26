@@ -541,6 +541,15 @@
       "purchaseLink": "https://www.amazon.com/Polymaker-Filament-Resistant-Weather-Cardboard/dp/B09DKPYYBP?th=1"
     },
     {
+      "name": "White",
+      "color": "#E9E6E3",
+      "materialType": "ASA",
+      "subType": "",
+      "hex": "#E9E6E3",
+      "brand": "PolyLite",
+      "purchaseLink": "https://www.amazon.com/Polymaker-Filament-Resistant-Weather-Cardboard/dp/B09DKN3S9J?th=1"
+    },
+    {
       "name": "Galaxy Black",
       "color": "#424240",
       "materialType": "PLA",
