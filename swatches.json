@@ -595,6 +595,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-natural?_pos=2&_psq=natural&_ss=e&_v=1.0"
     },
     {
+      "name": "Transparent",
+      "color": "#8A8B96",
+      "materialType": "PLA",
+      "subType": "Translucent",
+      "hex": "#8A8B96",
+      "brand": "Sunlu",
+      "purchaseLink": "https://www.amazon.com/SUNLU-Printer-Filament-Dimensional-Clear/dp/B07ZNG4L9P?th=1"
+    },
+    {
       "name": "Natural",
       "color": "#8E8E8E",
       "materialType": "PLA",
