@@ -19,6 +19,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GO8I0/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
+      "name": "Lipstick Red",
+      "color": "#B82A24",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#B82A24",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-lipstick-red"
+    },
+    {
       "name": "Terracotta",
       "color": "#A46A62",
       "materialType": "PLA",
@@ -26,6 +35,15 @@
       "hex": "#A46A62",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8M3YR8/ref=asc_df_B0CK9GY627/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=6577851326547202864&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016254&hvtargid=pla-2247552469158&mcid=c4bba60673e73c6d94c99cfe48754d15&th=1"
+    },
+    {
+      "name": "Tree Brown",
+      "color": "#52382F",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#52382F",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-brown?_pos=1&_psq=tree+brown&_ss=e&_v=1.0"
     },
     {
       "name": "Prusa Orange",
@@ -155,12 +173,21 @@
     },
     {
       "name": "Max Mustard",
-      "color": "#C9A460",
+      "color": "#C9A45F",
       "materialType": "PLA",
       "subType": "Max",
-      "hex": "#C9A460",
+      "hex": "#C9A45F",
       "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/dp/B0CXZLKFZZ/ref=twister_B0CY11S63G?_encoding=UTF8&th=1"
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Mustard-Filament-Diameter-Printing/dp/B0FGZFDVMH?th=1"
+    },
+    {
+      "name": "Golden Winner",
+      "color": "#8F7228",
+      "materialType": "PLA",
+      "subType": "Glitter",
+      "hex": "#8F7228",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner?_pos=1&_psq=golden&_ss=e&_v=1.0"
     },
     {
       "name": "Real Yellow",
@@ -179,6 +206,15 @@
       "hex": "#E8CC00",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GRREW/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
+    },
+    {
+      "name": "Army Green",
+      "color": "#464B2E",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#464B2E",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-army-green"
     },
     {
       "name": "Pastel Green",
@@ -244,13 +280,31 @@
       "purchaseLink": "https://www.seemecnc.com/collections/filament/products/1-75mm-uv-reactive-neon-green-atomic-filament-pla-1kg-spool"
     },
     {
+      "name": "Tree Green",
+      "color": "#287B36",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#287B36",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-green?_pos=1&_psq=tree+green&_ss=e&_v=1.0"
+    },
+    {
+      "name": "Green",
+      "color": "#00913B",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#00913B",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.hatchbox3d.com/products/3d-petg-1kg1-75-grn?srsltid=AfmBOooqfm-aC9qCivUmINM4jicQa7Q1_J_BLAdWwJFFyuNXB_8zi_Go"
+    },
+    {
       "name": "Max Green",
-      "color": "#007B39",
+      "color": "#007D38",
       "materialType": "PLA",
       "subType": "Max",
-      "hex": "#007B39",
+      "hex": "#007D38",
       "brand": "Hatchbox",
-      "purchaseLink": "https://www.hatchbox3d.com/collections/pla-max-1-75mm-filament/products/hb-pla-1kg1-75-grn"
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZLC66J?th=1"
     },
     {
       "name": "Starlight Comet",
@@ -335,12 +389,30 @@
     },
     {
       "name": "Blue",
+      "color": "#003B6D",
+      "materialType": "PLA",
+      "subType": "Transparent",
+      "hex": "#003B6D",
+      "brand": "SUNLU",
+      "purchaseLink": "https://store.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=47495414317338&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=22681243439&gbraid=0AAAAAobnryVUxp9mowlAYLTEzl-54rPg9&gclid=CjwKCAiA95fLBhBPEiwATXUsxNVWZAh5p9G5yv64Dh-lmczfWus5w4AYhF7WyzbFPFYYiP3DnFglBRoCJpUQAvD_BwE"
+    },
+    {
+      "name": "Blue",
       "color": "#094376",
       "materialType": "PETG",
       "subType": "",
       "hex": "#094376",
       "brand": "PolyLite",
       "purchaseLink": "https://us.polymaker.com/products/polylite-petg?variant=39574344433721&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoowBYpARF85fGlu1VRw0HDQ9xr89KuohOrHcY2GAxeY5_Thrpb8RiI"
+    },
+    {
+      "name": "Blue Whale Grey",
+      "color": "#385C81",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#385C81",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-whale-grey?_pos=1&_psq=blue+grey&_ss=e&_v=1.0"
     },
     {
       "name": "True Blue",
@@ -352,13 +424,22 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GPC80/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
+      "name": "Blue",
+      "color": "#39404E",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#39404E",
+      "brand": "Geeetech",
+      "purchaseLink": "https://www.geeetech.com/pla-matte-blue-3d-printer-filament-175mm-1kgroll-p-1271.html"
+    },
+    {
       "name": "Max Dark Blue",
-      "color": "#313B51",
+      "color": "#2E384D",
       "materialType": "PLA",
       "subType": "Max",
-      "hex": "#313B51",
+      "hex": "#2E384D",
       "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0CY13NWR4/ref=sr_1_1_sspa?crid=MDZZED3P40CX&dib=eyJ2IjoiMSJ9.J75lwbM-N0HgxblO2Ae1IVNY2bgHwGWKTdaCyn8mTNM8sa3JJF55xYxT1G2xS4grtKaDnDJUh1-iufJiL40_DSVJA3SXLV3u4PpkcDaMr474r7n8KpgeN1TE3iAV2VRLwAoJpMntLpefCBlEJ2phk6a_MzDCZW5_z7Nwnu8BljYBU04G8Bnx2kfhw4U4Wuu-Qxv9Z_rAd6Haovyaajo5A9w_gcxwaGg9vnhZ0ZzczgxyM_Y_mUFA1tqlfJL21Zmxg7sv2PB8svIcT85oVuLGUhZ7tMzI0wNO5F1J-vWVKEE.zI5Rxt8iNYmpjEJfWnfWTNMG0_VhwHGFizIn6JqwXqU&dib_tag=se&keywords=hatchbox%2Bpla&qid=1712799683&s=industrial&sprefix=hatchbox%2Bpla%2Cindustrial%2C147&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZ21N12/ref=sr_1_1_sspa?crid=3D0INE1PEHUTG&dib=eyJ2IjoiMSJ9.B_tJlYum9CL_3MAQDCePaYnmvAzEklK9kQpIhRJG9jXghSKC0OBQ70jp5QHVVREHZkZWMIBhFFl99gUgDw5iMLIuSWXCgSQF2nHIhNS85lZpdeHsMSscaYyCs6U61DojT8AZ2ef-cCgdSY4fgE4U3qafw0HL6SRqdorUj1XMfLNqhDqTfz_PRxTmrAvRd3PP3og_vFHabCH_fERqMxZMQSaE2860ZSlQ1GQXw46_GQo.ZSLg0pbDwaPTF7vslebGl8d0x_3pGN3mP8NzsST1trU&dib_tag=se&keywords=hatchbox%2Bdark%2Bblue%2Bmax&qid=1758124638&sprefix=hatchbox%2Bdark%2Bblue%2Bmax%2Caps%2C115&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
       "name": "Light Purple",
@@ -406,6 +487,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00MEZDPS8/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
+      "name": "Mystic Brown",
+      "color": "#4B2C32",
+      "materialType": "PLA",
+      "subType": "Polychromatic",
+      "hex": "#4B2C32",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-mystic-brown"
+    },
+    {
       "name": "Cherry Red",
       "color": "#8F2637",
       "materialType": "PLA",
@@ -416,11 +506,20 @@
     },
     {
       "name": "Black",
+      "color": "#262325",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#262325",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-black?variant=39502749433941"
+    },
+    {
+      "name": "Black",
       "color": "#25282A",
       "materialType": "PLA",
       "subType": "Silk",
       "hex": "#25282A",
-      "brand": "Sunlu",
+      "brand": "SUNLU",
       "purchaseLink": "https://www.amazon.com/Filament-SUNLU-1-75mm%EF%BC%8CSmooth-Surface%EF%BC%8CGreat-Printers%EF%BC%8CDimensional/dp/B0B5Z221QB/ref=sr_1_1_sspa?crid=1AW6VRLY5EDW8&dib=eyJ2IjoiMSJ9.c-_0F20P4OZvxX7DUXaHdDi6VxY57J59A_qKIpItUmRPqlMy_n90Uvc_X1s8U1bOOhx_GrHY-nzwTQ1wv_bULbguSREEftRxsTXRvG9_vx8LbolVhc5hjVw4zSH2Cni52VL6qXpR8EmIK_TKMpKzIywEhrQ-tQrpm2EzCghZzKHROzdk5cVxwAF2Sfxu76cZaQ9ZekKS4dQLgp1tBNrr8C_gFm9wsZeCep8kgRLlBvrY-fZTAGNXF3vst_T9tFATpiq4fsjeboJfLi9XmEus1Ukq1lC8v6uDI8HWOQLyTXk.Hg2ZTLUy3_ckbdvg98M4i6B2eTrDwVy2U_MNh2xgAfA&dib_tag=se&keywords=sunlu%2Bsilk%2Bpla&qid=1712755814&s=industrial&sprefix=sunlu%2Bsil%2Cindustrial%2C89&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
@@ -442,10 +541,28 @@
       "purchaseLink": "https://www.amazon.com/dp/B00J0ECR5I/ref=twister_B09WW4Z413?_encoding=UTF8&th=1"
     },
     {
+      "name": "Black",
+      "color": "#343737",
+      "materialType": "ASA",
+      "subType": "",
+      "hex": "#343737",
+      "brand": "Bambu Lab",
+      "purchaseLink": "https://us.store.bambulab.com/products/asa-filament?srsltid=AfmBOorHwh4rqNYh9aCI8kPnbiS0mtwvutlMdddlp4Tw1eIuWSnwlMDS&t=1756818798803&id=41227780817032"
+    },
+    {
+      "name": "Black",
+      "color": "#3C3F40",
+      "materialType": "ASA",
+      "subType": "",
+      "hex": "#3C3F40",
+      "brand": "PolyLite",
+      "purchaseLink": "https://www.amazon.com/Polymaker-Filament-Resistant-Weather-Cardboard/dp/B09DKPYYBP?th=1"
+    },
+    {
       "name": "Galaxy Black",
       "color": "#424240",
       "materialType": "PLA",
-      "subType": "Sparkle",
+      "subType": "Glitter",
       "hex": "#424240",
       "brand": "Prusament",
       "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/#description"
@@ -460,6 +577,24 @@
       "purchaseLink": "https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-agry?srsltid=AfmBOopUcfDuUj8l3D0j6m82OglmGd6BQ7pJ0JvKIMzdLBMdYvoDGGJN"
     },
     {
+      "name": "Mystic Green",
+      "color": "#525440",
+      "materialType": "PLA",
+      "subType": "Polychromatic",
+      "hex": "#525440",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-mystic-green"
+    },
+    {
+      "name": "Gun Metal Grey",
+      "color": "#717476",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#717476",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-gun-metal-grey?variant=39502750842965"
+    },
+    {
       "name": "Space Gray",
       "color": "#747677",
       "materialType": "PLA",
@@ -469,13 +604,22 @@
       "purchaseLink": "https://www.amazon.com/Overture-Filament-Professional-Toughness-Dimensional/dp/B07VJYGM6B/ref=sr_1_2_sspa?crid=38FEKNXK5AXHS&dib=eyJ2IjoiMSJ9.ReZl5gPyyJbBX6ibnBdUHgfkcjqKqGrXggM9vx9-cEM9PTRxmRWEgPCz3_Tp1O3x1LOAYKlwm2tqNuW08c8ShuZOMkcbub_cFf1mVeg9UAnNVCmkocv7xA3S_gzqQX17FjmTdtDcBNphMElRwROujfl8AgkU8XQw1rjc3wHvjMohoUGtH_MSZeGmg_q74jj59GK_x20Xh3B-RaqawdUaNifGsWAc1jDRB7z1gV4TzCQ.8EbGX88NYIRIZOne749lNRdV8qL8ixjUNrVnyyKC8og&dib_tag=se&keywords=overture%2Bspace%2Bgray%2Bpla&qid=1711488729&sprefix=overture%2Bspace%2Bgray%2Bpla%2Caps%2C77&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
-      "name": "Transparent",
-      "color": "#8E8B86",
+      "name": "Natural",
+      "color": "#82817E",
       "materialType": "PLA",
-      "subType": "Translucent",
-      "hex": "#8E8B86",
-      "brand": "Sunlu",
-      "purchaseLink": "https://www.amazon.com/SUNLU-Filament-Transparent-Dimensional-Accuracy/dp/B07ZNG4L9P/ref=asc_df_B07ZNG4L9P/?tag=hyprod-20&linkCode=df0&hvadid=459577916351&hvpos=&hvnetw=g&hvrand=12268328689334802436&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016261&hvtargid=pla-1136132240832&mcid=6be5814fa3cd3e26aa904eac1c98ffb1&gclid=Cj0KCQjw2PSvBhDjARIsAKc2cgNjDw6f3G_3JrgPPW60Wul25YV1Jf1pGB-AejfRuZIuTHjAUkW-_nwaAsGPEALw_wcB&th=1"
+      "subType": "",
+      "hex": "#82817E",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-natural?_pos=2&_psq=natural&_ss=e&_v=1.0"
+    },
+    {
+      "name": "Transparent",
+      "color": "#8A8B96",
+      "materialType": "PLA",
+      "subType": "Transparent",
+      "hex": "#8A8B96",
+      "brand": "SUNLU",
+      "purchaseLink": "https://www.amazon.com/SUNLU-Printer-Filament-Dimensional-Clear/dp/B07ZNG4L9P?th=1"
     },
     {
       "name": "Natural",
@@ -505,6 +649,15 @@
       "purchaseLink": "https://www.amazon.com/Filament-1-75mm-ERYONE-Printing-Printer/dp/B07GNKDHCD/ref=sr_1_3?crid=20A71B3TNH53V&dib=eyJ2IjoiMSJ9.w8XmBVDyPmsR56OJs5KmGZSOjrt8DKSSdLk4-1IwD6N6doVn1s_SYtLvP_IMxnbnA3HIAWlaVwmo_qbBc-D5QdWSG1EzO5M8qBTYB8ZFLWUJIdZIdrGIfp16AYZDaR5mnqv-NWL0-wl-LmtA_envt-Y-WLMw6vtLKLB4MfhXscMTwhMjVUnd1ILiqCeP_OhT-2_yH7iOTfrFpgZjOyJ3mpApuCeTNmlj6H3p0fDuV5w.JN9Fl7sY094Of2PwtR1odc6nUcJzbSWg_nCSWTS77lA&dib_tag=se&keywords=eryone%2Bfilament%2Bgray&qid=1711491167&sprefix=eryone%2Bfilament%2Bgray%2Caps%2C90&sr=8-3&th=1"
     },
     {
+      "name": "Light Gray",
+      "color": "#8B9497",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#8B9497",
+      "brand": "Overture",
+      "purchaseLink": "https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B0834BN4SF/ref=sr_1_1?crid=1DRN236Q1ORC4&dib=eyJ2IjoiMSJ9.lmDSmODlvoDOJBnHf3ewdJOlcglXCIlReZQ3gG6GpCSzVGzsiIl-pruMgpytAAbMAxFUbfLWKjJELZitaJ4BhlNAYuEAYnmYmT0vIfY-B3sksypDCEtTa0KYmPvASaDiOGLboZfS1QpWIW5OB0QAryUQNCdCR-y2md7e_GaRYqrdfIOqWlafXmUgurIczYv-12DbURHx-YvxNs9oKvy_5EFmVZn8SL9XSEzROhWQjbM.dwWCfcnoAWdUwygderC6EDHmgZ6MlsMPUML9KbE5VP0&dib_tag=se&keywords=overture%2Bpetg%2Blight%2Bgray&qid=1758124709&sprefix=overture%2Bpetg%2Blight%2Bgray%2Caps%2C121&sr=8-1&th=1"
+    },
+    {
       "name": "Cool Gray",
       "color": "#989A99",
       "materialType": "PLA",
@@ -512,6 +665,33 @@
       "hex": "#989A99",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1CYFE/ref=sr_1_1?dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrayIx7ZQH9kSKupzMVAtAhBnvW_gwQIPD-gZ8uXjEBDKSmWNiKdvi4aWc99b6X4pUTvSkpbYdruywYUJBR-_IJbhbk8hAzomaF1yEYvfC1tjx_FpXILoxm7887xaNRGT3oAbZyWGQij6uC62DgEQmOWAftisgoq1mP9IOw0SaSgVSlASb6Arx-YomvYyZIOwGZy92mtNYpOHGNRqDbXmlVEQ.8OzeqpVZ2gBqTW72EvqdYhLPJ4klvd91Lk-dNwjoOCM&dib_tag=se&hvadid=580878722529&hvdev=c&hvlocphy=9016261&hvnetw=g&hvqmt=b&hvrand=6078365362487083671&hvtargid=kwd-301276193970&hydadcr=8490_13507418&keywords=hatchbox%2Bpla%2B1.75&qid=1708956577&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+    },
+    {
+      "name": "Max Gray",
+      "color": "#999D9E",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#999D9E",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZDV78W?th=1"
+    },
+    {
+      "name": "Gravity Grey",
+      "color": "#9A9FA3",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#9A9FA3",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-gravity-grey"
+    },
+    {
+      "name": "Natural",
+      "color": "#A9ACAC",
+      "materialType": "TPU",
+      "subType": "",
+      "hex": "#A9ACAC",
+      "brand": "Prusament",
+      "purchaseLink": "https://prusament.com/spool/17777/d1d4010c63/"
     },
     {
       "name": "Natural",
@@ -530,6 +710,15 @@
       "hex": "#ADB4BB",
       "brand": "MatterHackers",
       "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MHW2R5AY"
+    },
+    {
+      "name": "Design White",
+      "color": "#CECBC6",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#CECBC6",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-design-white?variant=39502755004501"
     },
     {
       "name": "White",
@@ -551,6 +740,15 @@
     },
     {
       "name": "White",
+      "color": "#E9E6E3",
+      "materialType": "ASA",
+      "subType": "",
+      "hex": "#E9E6E3",
+      "brand": "PolyLite",
+      "purchaseLink": "https://www.amazon.com/Polymaker-Filament-Resistant-Weather-Cardboard/dp/B09DKN3S9J?th=1"
+    },
+    {
+      "name": "White",
       "color": "#E5E7E6",
       "materialType": "PLA",
       "subType": "",
@@ -559,13 +757,31 @@
       "purchaseLink": "https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGZNM34/ref=sr_1_1_sspa?crid=3T09N4HE2PJDG&dib=eyJ2IjoiMSJ9.lHRwcjICdjXk-pXAAdd2OxfN2SdYu7iFdfTYC2-YHMUJmZWce_I5pz0hyOuSJmyG0iYyh4T84nuqlsTLlxPLayuK52MALSPWWdHmxU5hFN-nLGeLqT69Us-wKtAK3lMpoXsS67cH0f8u2mKy-Jt2axEg3jG8MbiWDthN0eGajnHWEiHA_DwxFC-ygbArwD_lA7C9TMmHZqirq-jBSsh_gQEaExmY37xKR3S9abXt-z5ICABEeqVtBIJ3Zt1BWtZxn8RonFHUr1ZtI94iIpr8UI1ph4T6nQbWnkPNYieGv0w.whohSfpHlEesZxIsnSPzpTZ5ez-bvDrgQWNpwth3zLk&dib_tag=se&keywords=overture%2Bpla%2Bwhite&qid=1711117352&s=industrial&sprefix=overture%2Bpla%2Bwhite%2Cindustrial%2C84&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
-      "name": "True White",
-      "color": "#EAEAF1",
+      "name": "Max White",
+      "color": "#E4E8E7",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#E4E8E7",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGYXVH2T?th=1"
+    },
+    {
+      "name": "Quarter White",
+      "color": "#E7E8E4",
       "materialType": "PLA",
       "subType": "",
-      "hex": "#EAEAF1",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GMMP6?ref_=ast_sto_dp&th=1"
+      "hex": "#E7E8E4",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-quarter-white?variant=39502749007957"
+    },
+    {
+      "name": "Arctic White",
+      "color": "#E4E9E9",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#E4E9E9",
+      "brand": "SeeMeCNC",
+      "purchaseLink": "https://www.amazon.com/"
     },
     {
       "name": "True White",
@@ -593,6 +809,15 @@
       "hex": "#EBEDEC",
       "brand": "MatterHackers",
       "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MKVQAQ28"
+    },
+    {
+      "name": "White",
+      "color": "#F1F1EA",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#F1F1EA",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
     }
   ]
 }
