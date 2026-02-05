@@ -818,6 +818,24 @@
       "hex": "#F1F1EA",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
+    },
+    {
+      "name": "Gold",
+      "color": "#BE9400",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#BE9400",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/512943/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold"
+    },
+    {
+      "name": "Yellow",
+      "color": "#829000",
+      "materialType": "TPU",
+      "subType": "Translucent",
+      "hex": "#829000",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/626658/inland-175mm-tpu-3d-printer-filament-10-kg-(22-lbs)-spool-translucent-yellow"
     }
   ]
 }
