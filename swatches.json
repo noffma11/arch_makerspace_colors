@@ -101,6 +101,15 @@
     },
     {
       "name": "Wood Brown",
+      "color": "#B38460",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#B38460",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/660550/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-wood-brown"
+    },
+    {
+      "name": "Wood Brown",
       "color": "#B58763",
       "materialType": "PLA",
       "subType": "",
@@ -190,6 +199,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner?_pos=1&_psq=golden&_ss=e&_v=1.0"
     },
     {
+      "name": "Gold",
+      "color": "#BE9400",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#BE9400",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/512943/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold"
+    },
+    {
       "name": "Real Yellow",
       "color": "#DFC92B",
       "materialType": "PLA",
@@ -206,6 +224,15 @@
       "hex": "#E8CC00",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GRREW/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
+    },
+    {
+      "name": "Yellow",
+      "color": "#829000",
+      "materialType": "TPU",
+      "subType": "Translucent",
+      "hex": "#829000",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/626658/inland-175mm-tpu-3d-printer-filament-10-kg-(22-lbs)-spool-translucent-yellow"
     },
     {
       "name": "Army Green",
@@ -415,6 +442,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-whale-grey?_pos=1&_psq=blue+grey&_ss=e&_v=1.0"
     },
     {
+      "name": "Blue",
+      "color": "#00458C",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#00458C",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/512932/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue"
+    },
+    {
       "name": "True Blue",
       "color": "#17459A",
       "materialType": "PLA",
@@ -505,6 +541,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B0CK9GY627/ref=asc_df_B0CK9GY627/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=6577851326547202864&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016254&hvtargid=pla-2247552469158&mcid=c4bba60673e73c6d94c99cfe48754d15&th=1"
     },
     {
+      "name": "True Red",
+      "color": "#791F2B",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#791F2B",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/692940/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-true-red"
+    },
+    {
       "name": "Black",
       "color": "#262325",
       "materialType": "PLA",
@@ -539,6 +584,15 @@
       "hex": "#302E31",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/dp/B00J0ECR5I/ref=twister_B09WW4Z413?_encoding=UTF8&th=1"
+    },
+    {
+      "name": "Black",
+      "color": "#2F2F33",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#2F2F33",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/692935/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-black?sp=195"
     },
     {
       "name": "Black",
@@ -586,6 +640,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-mystic-green"
     },
     {
+      "name": "Gray",
+      "color": "#585B69",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#585B69",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/692937/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-gray?sp=195"
+    },
+    {
       "name": "Gun Metal Grey",
       "color": "#717476",
       "materialType": "PLA",
@@ -604,6 +667,15 @@
       "purchaseLink": "https://www.amazon.com/Overture-Filament-Professional-Toughness-Dimensional/dp/B07VJYGM6B/ref=sr_1_2_sspa?crid=38FEKNXK5AXHS&dib=eyJ2IjoiMSJ9.ReZl5gPyyJbBX6ibnBdUHgfkcjqKqGrXggM9vx9-cEM9PTRxmRWEgPCz3_Tp1O3x1LOAYKlwm2tqNuW08c8ShuZOMkcbub_cFf1mVeg9UAnNVCmkocv7xA3S_gzqQX17FjmTdtDcBNphMElRwROujfl8AgkU8XQw1rjc3wHvjMohoUGtH_MSZeGmg_q74jj59GK_x20Xh3B-RaqawdUaNifGsWAc1jDRB7z1gV4TzCQ.8EbGX88NYIRIZOne749lNRdV8qL8ixjUNrVnyyKC8og&dib_tag=se&keywords=overture%2Bspace%2Bgray%2Bpla&qid=1711488729&sprefix=overture%2Bspace%2Bgray%2Bpla%2Caps%2C77&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
+      "name": "Chameleon",
+      "color": "#6E7782",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#6E7782",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/660570/inland-shimmer-175mm-gray-pla-3d-printer-filament-1kg-spool-(22-lbs)?sp=82"
+    },
+    {
       "name": "Natural",
       "color": "#82817E",
       "materialType": "PLA",
@@ -611,6 +683,15 @@
       "hex": "#82817E",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-natural?_pos=2&_psq=natural&_ss=e&_v=1.0"
+    },
+    {
+      "name": "Gold Green Black",
+      "color": "#7C8B68",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#7C8B68",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/670190/inland-175mm-pla-silky-3d-printer-filament-triple-color-10-kg-(22-lbs)-spool-mystic-(black-gold-green)"
     },
     {
       "name": "Transparent",
@@ -710,6 +791,15 @@
       "hex": "#ADB4BB",
       "brand": "MatterHackers",
       "purchaseLink": "https://www.matterhackers.com/store/l/pro-series-pla/sk/MHW2R5AY"
+    },
+    {
+      "name": "White",
+      "color": "#B8C1C8",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#B8C1C8",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/692936/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-white?sp=195"
     },
     {
       "name": "Design White",
@@ -818,96 +908,6 @@
       "hex": "#F1F1EA",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
-    },
-    {
-      "name": "Gold",
-      "color": "#BE9400",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#BE9400",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/512943/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold"
-    },
-    {
-      "name": "Yellow",
-      "color": "#829000",
-      "materialType": "TPU",
-      "subType": "Translucent",
-      "hex": "#829000",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/626658/inland-175mm-tpu-3d-printer-filament-10-kg-(22-lbs)-spool-translucent-yellow"
-    },
-    {
-      "name": "Gold Green Black",
-      "color": "#7C8B68",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#7C8B68",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/670190/inland-175mm-pla-silky-3d-printer-filament-triple-color-10-kg-(22-lbs)-spool-mystic-(black-gold-green)"
-    },
-    {
-      "name": "Chameleon",
-      "color": "#6E7782",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#6E7782",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/660570/inland-shimmer-175mm-gray-pla-3d-printer-filament-1kg-spool-(22-lbs)?sp=82"
-    },
-    {
-      "name": "Wood Brown",
-      "color": "#B38460",
-      "materialType": "PLA",
-      "subType": "Matte",
-      "hex": "#B38460",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/660550/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-wood-brown"
-    },
-    {
-      "name": "Blue",
-      "color": "#00458C",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#00458C",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/512932/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue"
-    },
-    {
-      "name": "Gray",
-      "color": "#585B69",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#585B69",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/692937/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-gray?sp=195"
-    },
-    {
-      "name": "Black",
-      "color": "#2F2F33",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#2F2F33",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/692935/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-black?sp=195"
-    },
-    {
-      "name": "White",
-      "color": "#B8C1C8",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#B8C1C8",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/692936/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-white?sp=195"
-    },
-    {
-      "name": "True Red",
-      "color": "#791F2B",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#791F2B",
-      "brand": "Inland",
-      "purchaseLink": "https://www.microcenter.com/product/692940/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-true-red"
     }
   ]
 }
