@@ -658,7 +658,7 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-gun-metal-grey?variant=39502750842965"
     },
     {
-      "name": "Space Gray",
+      "name": " ",
       "color": "#747677",
       "materialType": "PLA",
       "subType": "",
@@ -917,6 +917,15 @@
       "hex": "#004CA3",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-ABS-1KG1-75-BLU-Filament-Dimensional/dp/B00J0H3PG0/ref=sr_1_3?crid=2YSY0LGKCO5WS&dib=eyJ2IjoiMSJ9.Vd80FvlgWMK-TKSQAXBjjryhdRn_BbVUGlefAeQicWJHnd_WwM73KUkL1YdNshA10arCH1pjLTeVSxWMgnCKONnUwxbLt4kRrLj1aE1POWpm-EijDNP20n1eBZ-KsjQdjkMbvCdHpgpwaRUezxGremxJMrWvuPAyD6OeokvlhxOGBp_s-KLoqI3ghqewdDbkSOZnkCltbYmofEE5KZajKhrHrv4gbyHXtcF1wEQESM0.MvMoI5ai6pOwDsvRXvu-1tAc3dpvO8aMTaaa-cziIVs&dib_tag=se&keywords=abs%2Bhatchbox%2Bblue&qid=1770756124&sprefix=abs%2Bhatchbox%2Bblue%2Caps%2C153&sr=8-3&th=1"
+    },
+    {
+      "name": "Prusa Orange",
+      "color": "#F96D31",
+      "materialType": "PC",
+      "subType": "",
+      "hex": "#F96D31",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pc-blend-1-75mm-970g-prusa-orange?currency=USD&variant=40188714614869&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=5d6bce02d15c&gad_source=1&gad_campaignid=19932754948&gclid=Cj0KCQiAy6vMBhDCARIsAK8rOgnojfJQCOpRNx-9rGYGznLMe-jH-itF3orSaa6jmXOEHei0toXdZlIaAoyYEALw_wcB"
     }
   ]
 }
