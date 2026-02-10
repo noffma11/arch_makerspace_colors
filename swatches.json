@@ -872,6 +872,15 @@
       "hex": "#00458C",
       "brand": "Inland",
       "purchaseLink": "https://www.microcenter.com/product/512932/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue"
+    },
+    {
+      "name": "Gray",
+      "color": "#585B69",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#585B69",
+      "brand": "Inland",
+      "purchaseLink": ""
     }
   ]
 }
