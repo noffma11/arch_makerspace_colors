@@ -880,7 +880,34 @@
       "subType": "",
       "hex": "#585B69",
       "brand": "Inland",
-      "purchaseLink": ""
+      "purchaseLink": "https://www.microcenter.com/product/692937/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-gray?sp=195"
+    },
+    {
+      "name": "Black",
+      "color": "#2F2F33",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#2F2F33",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/692935/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-black?sp=195"
+    },
+    {
+      "name": "White",
+      "color": "#B8C1C8",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#B8C1C8",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/692936/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-white?sp=195"
+    },
+    {
+      "name": "True Red",
+      "color": "#791F2B",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#791F2B",
+      "brand": "Inland",
+      "purchaseLink": "https://www.microcenter.com/product/692940/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-true-red"
     }
   ]
 }
