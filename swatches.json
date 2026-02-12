@@ -559,6 +559,51 @@
       "purchaseLink": "https://www.microcenter.com/product/692936/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-white?sp=195"
     },
     {
+      "name": "Vanilla Bean Ice Cream",
+      "color": "#A6A8AB",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#A6A8AB",
+      "brand": "Jessie",
+      "purchaseLink": ""
+    },
+    {
+      "name": "Tan",
+      "color": "#9D8C7D",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#9D8C7D",
+      "brand": "Jessie",
+      "purchaseLink": ""
+    },
+    {
+      "name": "Army Green",
+      "color": "#504F31",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#504F31",
+      "brand": "Jessie",
+      "purchaseLink": ""
+    },
+    {
+      "name": "Gold Rush",
+      "color": "#CD9C47",
+      "materialType": "PLA",
+      "subType": "Elixir (silk)",
+      "hex": "#CD9C47",
+      "brand": "Jessie",
+      "purchaseLink": ""
+    },
+    {
+      "name": "Purple Eater",
+      "color": "#765B9D",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#765B9D",
+      "brand": "Jessie",
+      "purchaseLink": ""
+    },
+    {
       "name": "Red",
       "color": "#C7312B",
       "materialType": "PLA",
