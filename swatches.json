@@ -1,60 +1,6 @@
 {
   "swatches": [
     {
-      "name": "Beige",
-      "color": "#CDBCA2",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#CDBCA2",
-      "brand": "Jessie",
-      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-beige-500?_pos=8&_psq=jessie&_ss=e&_v=1.0"
-    },
-    {
-      "name": "Blue Moon",
-      "color": "#192B60",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#192B60",
-      "brand": "Jessie",
-      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-moon?variant=39502756347989"
-    },
-    {
-      "name": "Red",
-      "color": "#C7312B",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#C7312B",
-      "brand": "Jessie",
-      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-ps-red?variant=39502755102805"
-    },
-    {
-      "name": "Yellow Bird",
-      "color": "#F9C134",
-      "materialType": "PLA",
-      "subType": "",
-      "hex": "#F9C134",
-      "brand": "Jessie",
-      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-yellow-bird?variant=39502754381909"
-    },
-    {
-      "name": "Royal Ruby",
-      "color": "#A8393A",
-      "materialType": "PLA",
-      "subType": "Elixir (silk)",
-      "hex": "#A8393A",
-      "brand": "Jessie",
-      "purchaseLink": "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-royal-ruby-1kg?variant=40909815382101"
-    },
-    {
-      "name": "Emerald",
-      "color": "#006036",
-      "materialType": "TPU",
-      "subType": "Transparent",
-      "hex": "#006036",
-      "brand": "PS Imports",
-      "purchaseLink": "https://www.printedsolid.com/products/ps-imports-tpu-95a-transparent-emerald-1-75mm?srsltid=AfmBOoo7deaLnTkpl44x8YWat6LG_lNJWSmA5HYqfWX3uyVmcuPHRjfT"
-    },
-    {
       "name": "Brown",
       "color": "#442D2D",
       "materialType": "PLA",
@@ -71,6 +17,15 @@
       "hex": "#AE2927",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GO8I0/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
+    },
+    {
+      "name": "Red",
+      "color": "#C7312B",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#C7312B",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-ps-red?variant=39502755102805"
     },
     {
       "name": "Lipstick Red",
@@ -98,6 +53,15 @@
       "hex": "#52382F",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-tree-brown?_pos=1&_psq=tree+brown&_ss=e&_v=1.0"
+    },
+    {
+      "name": "Prusa Orange",
+      "color": "#F96D31",
+      "materialType": "PC",
+      "subType": "",
+      "hex": "#F96D31",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.printedsolid.com/products/prusament-pc-blend-1-75mm-970g-prusa-orange?currency=USD&variant=40188714614869&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=5d6bce02d15c&gad_source=1&gad_campaignid=19932754948&gclid=Cj0KCQiAy6vMBhDCARIsAK8rOgnojfJQCOpRNx-9rGYGznLMe-jH-itF3orSaa6jmXOEHei0toXdZlIaAoyYEALw_wcB"
     },
     {
       "name": "Prusa Orange",
@@ -217,6 +181,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8C3NSC/ref=sr_1_3_pp?crid=2HT8CJGT76B0Y&dib=eyJ2IjoiMSJ9.vX1D_hTIZV32yY9_g-zOgvVoEl8vBWlVzZjCg6Iva4VH5rFSAfW9Zfjg-Wtac36A3yLOJcx6KZjXIDeSPMVJYmMEWu5asUboyFThVBlNXunx1rOWbbKNDWQKEh-Dep5bySHIMLxOJpkC7bd6T_oo0VvNBamJ1mDYq6tG91RCn799YkGt02HLG-u-4SzG6tTzKm2EHET-okrc81VzekuNZsxUlsKNQ31q7dDBb-wpbE4.iZ_F10OsRmQ1rkijkFpuqfpUB76ktXhK237HymSFs8c&dib_tag=se&keywords=hatchbox%2Bmatte%2Bpla&qid=1711031024&sprefix=hatchbox%2Bmatte%2Caps%2C79&sr=8-3&th=1"
     },
     {
+      "name": "Beige",
+      "color": "#CDBCA2",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#CDBCA2",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-beige-500?_pos=8&_psq=jessie&_ss=e&_v=1.0"
+    },
+    {
       "name": "Gold",
       "color": "#D8A14B",
       "materialType": "PLA",
@@ -242,6 +215,15 @@
       "hex": "#C9A45F",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-Mustard-Filament-Diameter-Printing/dp/B0FGZFDVMH?th=1"
+    },
+    {
+      "name": "Yellow Bird",
+      "color": "#F9C134",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#F9C134",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-yellow-bird?variant=39502754381909"
     },
     {
       "name": "Golden Winner",
@@ -406,6 +388,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GQ2OS/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
+      "name": "Emerald",
+      "color": "#006036",
+      "materialType": "TPU",
+      "subType": "Transparent",
+      "hex": "#006036",
+      "brand": "PS Imports",
+      "purchaseLink": "https://www.printedsolid.com/products/ps-imports-tpu-95a-transparent-emerald-1-75mm?srsltid=AfmBOoo7deaLnTkpl44x8YWat6LG_lNJWSmA5HYqfWX3uyVmcuPHRjfT"
+    },
+    {
       "name": "Mint Green",
       "color": "#84D4B9",
       "materialType": "PLA",
@@ -505,6 +496,15 @@
       "purchaseLink": "https://www.microcenter.com/product/512932/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue"
     },
     {
+      "name": "Blue",
+      "color": "#004CA3",
+      "materialType": "ABS",
+      "subType": "",
+      "hex": "#004CA3",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-ABS-1KG1-75-BLU-Filament-Dimensional/dp/B00J0H3PG0/ref=sr_1_3?crid=2YSY0LGKCO5WS&dib=eyJ2IjoiMSJ9.Vd80FvlgWMK-TKSQAXBjjryhdRn_BbVUGlefAeQicWJHnd_WwM73KUkL1YdNshA10arCH1pjLTeVSxWMgnCKONnUwxbLt4kRrLj1aE1POWpm-EijDNP20n1eBZ-KsjQdjkMbvCdHpgpwaRUezxGremxJMrWvuPAyD6OeokvlhxOGBp_s-KLoqI3ghqewdDbkSOZnkCltbYmofEE5KZajKhrHrv4gbyHXtcF1wEQESM0.MvMoI5ai6pOwDsvRXvu-1tAc3dpvO8aMTaaa-cziIVs&dib_tag=se&keywords=abs%2Bhatchbox%2Bblue&qid=1770756124&sprefix=abs%2Bhatchbox%2Bblue%2Caps%2C153&sr=8-3&th=1"
+    },
+    {
       "name": "True Blue",
       "color": "#17459A",
       "materialType": "PLA",
@@ -530,6 +530,15 @@
       "hex": "#2E384D",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZ21N12/ref=sr_1_1_sspa?crid=3D0INE1PEHUTG&dib=eyJ2IjoiMSJ9.B_tJlYum9CL_3MAQDCePaYnmvAzEklK9kQpIhRJG9jXghSKC0OBQ70jp5QHVVREHZkZWMIBhFFl99gUgDw5iMLIuSWXCgSQF2nHIhNS85lZpdeHsMSscaYyCs6U61DojT8AZ2ef-cCgdSY4fgE4U3qafw0HL6SRqdorUj1XMfLNqhDqTfz_PRxTmrAvRd3PP3og_vFHabCH_fERqMxZMQSaE2860ZSlQ1GQXw46_GQo.ZSLg0pbDwaPTF7vslebGl8d0x_3pGN3mP8NzsST1trU&dib_tag=se&keywords=hatchbox%2Bdark%2Bblue%2Bmax&qid=1758124638&sprefix=hatchbox%2Bdark%2Bblue%2Bmax%2Caps%2C115&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+    },
+    {
+      "name": "Blue Moon",
+      "color": "#192B60",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#192B60",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-moon?variant=39502756347989"
     },
     {
       "name": "Light Purple",
@@ -602,6 +611,15 @@
       "hex": "#791F2B",
       "brand": "Inland",
       "purchaseLink": "https://www.microcenter.com/product/692940/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-true-red"
+    },
+    {
+      "name": "Royal Ruby",
+      "color": "#A8393A",
+      "materialType": "PLA",
+      "subType": "Elixir (silk)",
+      "hex": "#A8393A",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-royal-ruby-1kg?variant=40909815382101"
     },
     {
       "name": "Black",
@@ -962,24 +980,6 @@
       "hex": "#F1F1EA",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
-    },
-    {
-      "name": "Blue",
-      "color": "#004CA3",
-      "materialType": "ABS",
-      "subType": "",
-      "hex": "#004CA3",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-ABS-1KG1-75-BLU-Filament-Dimensional/dp/B00J0H3PG0/ref=sr_1_3?crid=2YSY0LGKCO5WS&dib=eyJ2IjoiMSJ9.Vd80FvlgWMK-TKSQAXBjjryhdRn_BbVUGlefAeQicWJHnd_WwM73KUkL1YdNshA10arCH1pjLTeVSxWMgnCKONnUwxbLt4kRrLj1aE1POWpm-EijDNP20n1eBZ-KsjQdjkMbvCdHpgpwaRUezxGremxJMrWvuPAyD6OeokvlhxOGBp_s-KLoqI3ghqewdDbkSOZnkCltbYmofEE5KZajKhrHrv4gbyHXtcF1wEQESM0.MvMoI5ai6pOwDsvRXvu-1tAc3dpvO8aMTaaa-cziIVs&dib_tag=se&keywords=abs%2Bhatchbox%2Bblue&qid=1770756124&sprefix=abs%2Bhatchbox%2Bblue%2Caps%2C153&sr=8-3&th=1"
-    },
-    {
-      "name": "Prusa Orange",
-      "color": "#F96D31",
-      "materialType": "PC",
-      "subType": "",
-      "hex": "#F96D31",
-      "brand": "Prusament",
-      "purchaseLink": "https://www.printedsolid.com/products/prusament-pc-blend-1-75mm-970g-prusa-orange?currency=USD&variant=40188714614869&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=5d6bce02d15c&gad_source=1&gad_campaignid=19932754948&gclid=Cj0KCQiAy6vMBhDCARIsAK8rOgnojfJQCOpRNx-9rGYGznLMe-jH-itF3orSaa6jmXOEHei0toXdZlIaAoyYEALw_wcB"
     }
   ]
 }
