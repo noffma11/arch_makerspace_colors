@@ -1,6 +1,60 @@
 {
   "swatches": [
     {
+      "name": "Beige",
+      "color": "#CDBCA2",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#CDBCA2",
+      "brand": "Jessie",
+      "purchaseLink": ""
+    },
+    {
+      "name": "Blue Moon",
+      "color": "#192B60",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#192B60",
+      "brand": "Jessie",
+      "purchaseLink": ""
+    },
+    {
+      "name": "Red",
+      "color": "#C7312B",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#C7312B",
+      "brand": "Jessie",
+      "purchaseLink": ""
+    },
+    {
+      "name": "Yellow Bird",
+      "color": "#F9C134",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#F9C134",
+      "brand": "Jessie",
+      "purchaseLink": ""
+    },
+    {
+      "name": "Royal Ruby",
+      "color": "#A8393A",
+      "materialType": "PLA",
+      "subType": "Elixir (silk)",
+      "hex": "#A8393A",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-royal-ruby-1kg?variant=40909815382101"
+    },
+    {
+      "name": "Emerald",
+      "color": "#006036",
+      "materialType": "TPU",
+      "subType": "Transparent",
+      "hex": "#006036",
+      "brand": "PS Imports",
+      "purchaseLink": "https://www.printedsolid.com/products/ps-imports-tpu-95a-transparent-emerald-1-75mm?srsltid=AfmBOoo7deaLnTkpl44x8YWat6LG_lNJWSmA5HYqfWX3uyVmcuPHRjfT"
+    },
+    {
       "name": "Brown",
       "color": "#442D2D",
       "materialType": "PLA",
