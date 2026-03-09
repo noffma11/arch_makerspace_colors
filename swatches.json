@@ -109,6 +109,123 @@
       "purchaseLink": "https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-agry?srsltid=AfmBOopUcfDuUj8l3D0j6m82OglmGd6BQ7pJ0JvKIMzdLBMdYvoDGGJN"
     },
     {
+      "name": "Brown",
+      "color": "#876E58",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#876E58",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8HR699/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYps2Ze6R4wL6MnyBcKHhR9tz7lMnWz0BOT8UpSWgPj6mAEgjcx78tGtxEodjlUXLb5gYd0OBCd-FBKXl_y0A-N2LZf8eqfGlhYLVsMuNbUC6rQRj9N0ym8JGniKXJPfCUYNhEAoLdmSo20eMTuZNZgIpNVtzc7upPvhDmMgH_TUX5L6f3WFoyoIGHi4RsajYWBrnesrcfHyRdWJ3fYgY0Uro.fWX55b6JcxIycwGQLmTYSSGEIGHiSGTcwLrECm_rPPE&dib_tag=se&hvadid=709981086607&hvdev=c&hvlocphy=9016261&hvnetw=g&hvqmt=b&hvrand=10060992156284842567&hvtargid=kwd-1545346375382&hydadcr=8490_13654109&keywords=hatchbox%2Bmatt%2Bpla&qid=1732282998&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+    },
+    {
+      "name": "Cherry Red",
+      "color": "#8F2637",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#8F2637",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B0CK9GY627/ref=asc_df_B0CK9GY627/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=6577851326547202864&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016254&hvtargid=pla-2247552469158&mcid=c4bba60673e73c6d94c99cfe48754d15&th=1"
+    },
+    {
+      "name": "Cool Mint",
+      "color": "#BEC9B4",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#BEC9B4",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B0CK9RWYGW/ref=sr_1_3_pp?crid=2HT8CJGT76B0Y&dib=eyJ2IjoiMSJ9.vX1D_hTIZV32yY9_g-zOgvVoEl8vBWlVzZjCg6Iva4VH5rFSAfW9Zfjg-Wtac36A3yLOJcx6KZjXIDeSPMVJYmMEWu5asUboyFThVBlNXunx1rOWbbKNDWQKEh-Dep5bySHIMLxOJpkC7bd6T_oo0VvNBamJ1mDYq6tG91RCn799YkGt02HLG-u-4SzG6tTzKm2EHET-okrc81VzekuNZsxUlsKNQ31q7dDBb-wpbE4.iZ_F10OsRmQ1rkijkFpuqfpUB76ktXhK237HymSFs8c&dib_tag=se&keywords=hatchbox%2Bmatte%2Bpla&qid=1711031024&sprefix=hatchbox%2Bmatte%2Caps%2C79&sr=8-3&th=1"
+    },
+    {
+      "name": "Kraft",
+      "color": "#BCA07A",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#BCA07A",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8C3NSC/ref=sr_1_3_pp?crid=2HT8CJGT76B0Y&dib=eyJ2IjoiMSJ9.vX1D_hTIZV32yY9_g-zOgvVoEl8vBWlVzZjCg6Iva4VH5rFSAfW9Zfjg-Wtac36A3yLOJcx6KZjXIDeSPMVJYmMEWu5asUboyFThVBlNXunx1rOWbbKNDWQKEh-Dep5bySHIMLxOJpkC7bd6T_oo0VvNBamJ1mDYq6tG91RCn799YkGt02HLG-u-4SzG6tTzKm2EHET-okrc81VzekuNZsxUlsKNQ31q7dDBb-wpbE4.iZ_F10OsRmQ1rkijkFpuqfpUB76ktXhK237HymSFs8c&dib_tag=se&keywords=hatchbox%2Bmatte%2Bpla&qid=1711031024&sprefix=hatchbox%2Bmatte%2Caps%2C79&sr=8-3&th=1"
+    },
+    {
+      "name": "Seafoam Blue",
+      "color": "#B9CFCB",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#B9CFCB",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-seablu?_pos=1&_sid=c23a5611b&_ss=r"
+    },
+    {
+      "name": "Terracotta",
+      "color": "#A46A62",
+      "materialType": "PLA",
+      "subType": "Matte",
+      "hex": "#A46A62",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8M3YR8/ref=asc_df_B0CK9GY627/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=6577851326547202864&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016254&hvtargid=pla-2247552469158&mcid=c4bba60673e73c6d94c99cfe48754d15&th=1"
+    },
+    {
+      "name": "Dark Blue",
+      "color": "#2E384D",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#2E384D",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZ21N12/ref=sr_1_1_sspa?crid=3D0INE1PEHUTG&dib=eyJ2IjoiMSJ9.B_tJlYum9CL_3MAQDCePaYnmvAzEklK9kQpIhRJG9jXghSKC0OBQ70jp5QHVVREHZkZWMIBhFFl99gUgDw5iMLIuSWXCgSQF2nHIhNS85lZpdeHsMSscaYyCs6U61DojT8AZ2ef-cCgdSY4fgE4U3qafw0HL6SRqdorUj1XMfLNqhDqTfz_PRxTmrAvRd3PP3og_vFHabCH_fERqMxZMQSaE2860ZSlQ1GQXw46_GQo.ZSLg0pbDwaPTF7vslebGl8d0x_3pGN3mP8NzsST1trU&dib_tag=se&keywords=hatchbox%2Bdark%2Bblue%2Bmax&qid=1758124638&sprefix=hatchbox%2Bdark%2Bblue%2Bmax%2Caps%2C115&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+    },
+    {
+      "name": "Gray",
+      "color": "#999D9E",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#999D9E",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZDV78W?th=1"
+    },
+    {
+      "name": "Green",
+      "color": "#007D38",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#007D38",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZLC66J?th=1"
+    },
+    {
+      "name": "Mustard",
+      "color": "#C9A45F",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#C9A45F",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Mustard-Filament-Diameter-Printing/dp/B0FGZFDVMH?th=1"
+    },
+    {
+      "name": "White",
+      "color": "#E4E8E7",
+      "materialType": "PLA",
+      "subType": "Max",
+      "hex": "#E4E8E7",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGYXVH2T?th=1"
+    },
+    {
+      "name": "Gold",
+      "color": "#D8A14B",
+      "materialType": "PLA",
+      "subType": "Metallic",
+      "hex": "#D8A14B",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/gp/product/B09T959467/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1"
+    },
+    {
+      "name": "Purple",
+      "color": "#8F1C7C",
+      "materialType": "PLA",
+      "subType": "Pro",
+      "hex": "#8F1C7C",
+      "brand": "Hatchbox",
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-PPLA-1KG1-75-BLK-Performance-Filament-Dimensional/dp/B017UZB1K0?th=1"
+    },
+    {
       "name": "Baby Blue",
       "color": "#6ACFD2",
       "materialType": "PLA",
@@ -127,13 +244,13 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1CZUI/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
-      "name": "Brown",
-      "color": "#876E58",
-      "materialType": "PLA",
-      "subType": "Matte",
-      "hex": "#876E58",
+      "name": "Blue",
+      "color": "#004CA3",
+      "materialType": "ABS",
+      "subType": "",
+      "hex": "#004CA3",
       "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8HR699/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYps2Ze6R4wL6MnyBcKHhR9tz7lMnWz0BOT8UpSWgPj6mAEgjcx78tGtxEodjlUXLb5gYd0OBCd-FBKXl_y0A-N2LZf8eqfGlhYLVsMuNbUC6rQRj9N0ym8JGniKXJPfCUYNhEAoLdmSo20eMTuZNZgIpNVtzc7upPvhDmMgH_TUX5L6f3WFoyoIGHi4RsajYWBrnesrcfHyRdWJ3fYgY0Uro.fWX55b6JcxIycwGQLmTYSSGEIGHiSGTcwLrECm_rPPE&dib_tag=se&hvadid=709981086607&hvdev=c&hvlocphy=9016261&hvnetw=g&hvqmt=b&hvrand=10060992156284842567&hvtargid=kwd-1545346375382&hydadcr=8490_13654109&keywords=hatchbox%2Bmatt%2Bpla&qid=1732282998&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-ABS-1KG1-75-BLU-Filament-Dimensional/dp/B00J0H3PG0/ref=sr_1_3?crid=2YSY0LGKCO5WS&dib=eyJ2IjoiMSJ9.Vd80FvlgWMK-TKSQAXBjjryhdRn_BbVUGlefAeQicWJHnd_WwM73KUkL1YdNshA10arCH1pjLTeVSxWMgnCKONnUwxbLt4kRrLj1aE1POWpm-EijDNP20n1eBZ-KsjQdjkMbvCdHpgpwaRUezxGremxJMrWvuPAyD6OeokvlhxOGBp_s-KLoqI3ghqewdDbkSOZnkCltbYmofEE5KZajKhrHrv4gbyHXtcF1wEQESM0.MvMoI5ai6pOwDsvRXvu-1tAc3dpvO8aMTaaa-cziIVs&dib_tag=se&keywords=abs%2Bhatchbox%2Bblue&qid=1770756124&sprefix=abs%2Bhatchbox%2Bblue%2Caps%2C153&sr=8-3&th=1"
     },
     {
       "name": "Brown",
@@ -145,15 +262,6 @@
       "purchaseLink": "https://www.hatchbox3d.com/products/hatchbox-abs-3d-printer-filament-dimensional-accuracy-0-03-mm-1-kg-spool-1-75-mm-brown?srsltid=AfmBOoqCWPuUTsrtp1q0N-cj5x1tIbfwbk84X58Ou4WABAF2DkDVpi9A"
     },
     {
-      "name": "Cherry Red",
-      "color": "#8F2637",
-      "materialType": "PLA",
-      "subType": "Matte",
-      "hex": "#8F2637",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B0CK9GY627/ref=asc_df_B0CK9GY627/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=6577851326547202864&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016254&hvtargid=pla-2247552469158&mcid=c4bba60673e73c6d94c99cfe48754d15&th=1"
-    },
-    {
       "name": "Cool Gray",
       "color": "#989A99",
       "materialType": "PLA",
@@ -163,15 +271,6 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1CYFE/ref=sr_1_1?dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrayIx7ZQH9kSKupzMVAtAhBnvW_gwQIPD-gZ8uXjEBDKSmWNiKdvi4aWc99b6X4pUTvSkpbYdruywYUJBR-_IJbhbk8hAzomaF1yEYvfC1tjx_FpXILoxm7887xaNRGT3oAbZyWGQij6uC62DgEQmOWAftisgoq1mP9IOw0SaSgVSlASb6Arx-YomvYyZIOwGZy92mtNYpOHGNRqDbXmlVEQ.8OzeqpVZ2gBqTW72EvqdYhLPJ4klvd91Lk-dNwjoOCM&dib_tag=se&hvadid=580878722529&hvdev=c&hvlocphy=9016261&hvnetw=g&hvqmt=b&hvrand=6078365362487083671&hvtargid=kwd-301276193970&hydadcr=8490_13507418&keywords=hatchbox%2Bpla%2B1.75&qid=1708956577&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
-      "name": "Cool Mint",
-      "color": "#BEC9B4",
-      "materialType": "PLA",
-      "subType": "Matte",
-      "hex": "#BEC9B4",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B0CK9RWYGW/ref=sr_1_3_pp?crid=2HT8CJGT76B0Y&dib=eyJ2IjoiMSJ9.vX1D_hTIZV32yY9_g-zOgvVoEl8vBWlVzZjCg6Iva4VH5rFSAfW9Zfjg-Wtac36A3yLOJcx6KZjXIDeSPMVJYmMEWu5asUboyFThVBlNXunx1rOWbbKNDWQKEh-Dep5bySHIMLxOJpkC7bd6T_oo0VvNBamJ1mDYq6tG91RCn799YkGt02HLG-u-4SzG6tTzKm2EHET-okrc81VzekuNZsxUlsKNQ31q7dDBb-wpbE4.iZ_F10OsRmQ1rkijkFpuqfpUB76ktXhK237HymSFs8c&dib_tag=se&keywords=hatchbox%2Bmatte%2Bpla&qid=1711031024&sprefix=hatchbox%2Bmatte%2Caps%2C79&sr=8-3&th=1"
-    },
-    {
       "name": "Copper",
       "color": "#845A41",
       "materialType": "PLA",
@@ -179,33 +278,6 @@
       "hex": "#845A41",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1D1JM/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
-    },
-    {
-      "name": "Dark Blue",
-      "color": "#2E384D",
-      "materialType": "PLA",
-      "subType": "Max",
-      "hex": "#2E384D",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZ21N12/ref=sr_1_1_sspa?crid=3D0INE1PEHUTG&dib=eyJ2IjoiMSJ9.B_tJlYum9CL_3MAQDCePaYnmvAzEklK9kQpIhRJG9jXghSKC0OBQ70jp5QHVVREHZkZWMIBhFFl99gUgDw5iMLIuSWXCgSQF2nHIhNS85lZpdeHsMSscaYyCs6U61DojT8AZ2ef-cCgdSY4fgE4U3qafw0HL6SRqdorUj1XMfLNqhDqTfz_PRxTmrAvRd3PP3og_vFHabCH_fERqMxZMQSaE2860ZSlQ1GQXw46_GQo.ZSLg0pbDwaPTF7vslebGl8d0x_3pGN3mP8NzsST1trU&dib_tag=se&keywords=hatchbox%2Bdark%2Bblue%2Bmax&qid=1758124638&sprefix=hatchbox%2Bdark%2Bblue%2Bmax%2Caps%2C115&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
-    },
-    {
-      "name": "Gold",
-      "color": "#D8A14B",
-      "materialType": "PLA",
-      "subType": "Metallic",
-      "hex": "#D8A14B",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/gp/product/B09T959467/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1"
-    },
-    {
-      "name": "Gray",
-      "color": "#999D9E",
-      "materialType": "PLA",
-      "subType": "Max",
-      "hex": "#999D9E",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZDV78W?th=1"
     },
     {
       "name": "Gray Blue",
@@ -218,21 +290,12 @@
     },
     {
       "name": "Green",
-      "color": "#007D38",
-      "materialType": "PLA",
-      "subType": "Max",
-      "hex": "#007D38",
+      "color": "#00913B",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#00913B",
       "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZLC66J?th=1"
-    },
-    {
-      "name": "Kraft",
-      "color": "#BCA07A",
-      "materialType": "PLA",
-      "subType": "Matte",
-      "hex": "#BCA07A",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8C3NSC/ref=sr_1_3_pp?crid=2HT8CJGT76B0Y&dib=eyJ2IjoiMSJ9.vX1D_hTIZV32yY9_g-zOgvVoEl8vBWlVzZjCg6Iva4VH5rFSAfW9Zfjg-Wtac36A3yLOJcx6KZjXIDeSPMVJYmMEWu5asUboyFThVBlNXunx1rOWbbKNDWQKEh-Dep5bySHIMLxOJpkC7bd6T_oo0VvNBamJ1mDYq6tG91RCn799YkGt02HLG-u-4SzG6tTzKm2EHET-okrc81VzekuNZsxUlsKNQ31q7dDBb-wpbE4.iZ_F10OsRmQ1rkijkFpuqfpUB76ktXhK237HymSFs8c&dib_tag=se&keywords=hatchbox%2Bmatte%2Bpla&qid=1711031024&sprefix=hatchbox%2Bmatte%2Caps%2C79&sr=8-3&th=1"
+      "purchaseLink": "https://www.hatchbox3d.com/products/3d-petg-1kg1-75-grn?srsltid=AfmBOooqfm-aC9qCivUmINM4jicQa7Q1_J_BLAdWwJFFyuNXB_8zi_Go"
     },
     {
       "name": "Light Blue",
@@ -242,15 +305,6 @@
       "hex": "#007EBB",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B015I1CWEM/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
-    },
-    {
-      "name": "Blue",
-      "color": "#004CA3",
-      "materialType": "ABS",
-      "subType": "",
-      "hex": "#004CA3",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-ABS-1KG1-75-BLU-Filament-Dimensional/dp/B00J0H3PG0/ref=sr_1_3?crid=2YSY0LGKCO5WS&dib=eyJ2IjoiMSJ9.Vd80FvlgWMK-TKSQAXBjjryhdRn_BbVUGlefAeQicWJHnd_WwM73KUkL1YdNshA10arCH1pjLTeVSxWMgnCKONnUwxbLt4kRrLj1aE1POWpm-EijDNP20n1eBZ-KsjQdjkMbvCdHpgpwaRUezxGremxJMrWvuPAyD6OeokvlhxOGBp_s-KLoqI3ghqewdDbkSOZnkCltbYmofEE5KZajKhrHrv4gbyHXtcF1wEQESM0.MvMoI5ai6pOwDsvRXvu-1tAc3dpvO8aMTaaa-cziIVs&dib_tag=se&keywords=abs%2Bhatchbox%2Bblue&qid=1770756124&sprefix=abs%2Bhatchbox%2Bblue%2Caps%2C153&sr=8-3&th=1"
     },
     {
       "name": "Light Orange",
@@ -289,15 +343,6 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B09WW63ZJV/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
-      "name": "Green",
-      "color": "#00913B",
-      "materialType": "PETG",
-      "subType": "",
-      "hex": "#00913B",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.hatchbox3d.com/products/3d-petg-1kg1-75-grn?srsltid=AfmBOooqfm-aC9qCivUmINM4jicQa7Q1_J_BLAdWwJFFyuNXB_8zi_Go"
-    },
-    {
       "name": "Mint Green",
       "color": "#84D4B9",
       "materialType": "PLA",
@@ -305,15 +350,6 @@
       "hex": "#84D4B9",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/dp/B015I1D99O/ref=twister_B09WW4Z413?_encoding=UTF8&th=1"
-    },
-    {
-      "name": "Mustard",
-      "color": "#C9A45F",
-      "materialType": "PLA",
-      "subType": "Max",
-      "hex": "#C9A45F",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Mustard-Filament-Diameter-Printing/dp/B0FGZFDVMH?th=1"
     },
     {
       "name": "Natural",
@@ -344,39 +380,12 @@
     },
     {
       "name": "Purple",
-      "color": "#8F1C7C",
-      "materialType": "PLA",
-      "subType": "Pro",
-      "hex": "#8F1C7C",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-PPLA-1KG1-75-BLK-Performance-Filament-Dimensional/dp/B017UZB1K0?th=1"
-    },
-    {
-      "name": "Purple",
       "color": "#973C92",
       "materialType": "PLA",
       "subType": "",
       "hex": "#973C92",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00MEZDRPO/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
-    },
-    {
-      "name": "Seafoam Blue",
-      "color": "#B9CFCB",
-      "materialType": "PLA",
-      "subType": "Matte",
-      "hex": "#B9CFCB",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-seablu?_pos=1&_sid=c23a5611b&_ss=r"
-    },
-    {
-      "name": "Terracotta",
-      "color": "#A46A62",
-      "materialType": "PLA",
-      "subType": "Matte",
-      "hex": "#A46A62",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8M3YR8/ref=asc_df_B0CK9GY627/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=6577851326547202864&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016254&hvtargid=pla-2247552469158&mcid=c4bba60673e73c6d94c99cfe48754d15&th=1"
     },
     {
       "name": "True Black",
@@ -458,15 +467,6 @@
       "hex": "#E8CC00",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GRREW/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
-    },
-    {
-      "name": "White",
-      "color": "#E4E8E7",
-      "materialType": "PLA",
-      "subType": "Max",
-      "hex": "#E4E8E7",
-      "brand": "Hatchbox",
-      "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGYXVH2T?th=1"
     },
     {
       "name": "Wood Brown",
@@ -559,6 +559,33 @@
       "purchaseLink": "https://www.microcenter.com/product/692936/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-white?sp=195"
     },
     {
+      "name": "Gold Rush",
+      "color": "#CD9C47",
+      "materialType": "PLA",
+      "subType": "Elixir (silk)",
+      "hex": "#CD9C47",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-gold-rush-1kg?variant=40909813842005"
+    },
+    {
+      "name": "Royal Ruby",
+      "color": "#A8393A",
+      "materialType": "PLA",
+      "subType": "Elixir (silk)",
+      "hex": "#A8393A",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-royal-ruby-1kg?variant=40909815382101"
+    },
+    {
+      "name": "Golden Winner",
+      "color": "#8F7228",
+      "materialType": "PLA",
+      "subType": "Glitter",
+      "hex": "#8F7228",
+      "brand": "Jessie",
+      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner?_pos=1&_psq=golden&_ss=e&_v=1.0"
+    },
+    {
       "name": "Army Green",
       "color": "#504F31",
       "materialType": "PLA",
@@ -613,24 +640,6 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-design-white?variant=39502755004501"
     },
     {
-      "name": "Gold Rush",
-      "color": "#CD9C47",
-      "materialType": "PLA",
-      "subType": "Elixir (silk)",
-      "hex": "#CD9C47",
-      "brand": "Jessie",
-      "purchaseLink": "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-gold-rush-1kg?variant=40909813842005"
-    },
-    {
-      "name": "Golden Winner",
-      "color": "#8F7228",
-      "materialType": "PLA",
-      "subType": "Glitter",
-      "hex": "#8F7228",
-      "brand": "Jessie",
-      "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner?_pos=1&_psq=golden&_ss=e&_v=1.0"
-    },
-    {
       "name": "Gun Metal Grey",
       "color": "#717476",
       "materialType": "PLA",
@@ -674,15 +683,6 @@
       "hex": "#C7312B",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-ps-red?variant=39502755102805"
-    },
-    {
-      "name": "Royal Ruby",
-      "color": "#A8393A",
-      "materialType": "PLA",
-      "subType": "Elixir (silk)",
-      "hex": "#A8393A",
-      "brand": "Jessie",
-      "purchaseLink": "https://www.printedsolid.com/products/jessie-premium-elixir-1-75mm-x-royal-ruby-1kg?variant=40909815382101"
     },
     {
       "name": "Tan 64",
