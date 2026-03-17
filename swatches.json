@@ -1025,6 +1025,42 @@
       "hex": "#F1F1EA",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
+    },
+    {
+      "name": "Orange To Yellow",
+      "color": "#A86D3E",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#A86D3E",
+      "brand": "FLASHFORGE",
+      "purchaseLink": "https://www.amazon.com/dp/B0D7VVV22V?ref=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&ref_=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&social_share=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&th=1"
+    },
+    {
+      "name": "Green To Yellow",
+      "color": "#4A8D36",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#4A8D36",
+      "brand": "FLASHFORGE",
+      "purchaseLink": "https://www.amazon.com/dp/B0D7VVV22V?ref=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&ref_=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&social_share=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&th=2"
+    },
+    {
+      "name": "Midnight Blue",
+      "color": "#252E36",
+      "materialType": "PLA",
+      "subType": "Carbon Fiber",
+      "hex": "#252E36",
+      "brand": "FLASHFORGE",
+      "purchaseLink": "https://www.amazon.com/dp/B0D7VVV22V?ref=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&ref_=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&social_share=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&th=3"
+    },
+    {
+      "name": "Cool White",
+      "color": "#E0E3F5",
+      "materialType": "PLA",
+      "subType": "Plus",
+      "hex": "#E0E3F5",
+      "brand": "Epax",
+      "purchaseLink": "https://epax3d.com/products/epax-fast-pla?variant=50474632446165"
     }
   ]
 }
