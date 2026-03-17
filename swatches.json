@@ -1030,18 +1030,18 @@
       "name": "Orange To Yellow",
       "color": "#A86D3E",
       "materialType": "PLA",
-      "subType": "Color Changing",
+      "subType": "Temp Color Change",
       "hex": "#A86D3E",
-      "brand": "FLASHFORGE",
-      "purchaseLink": "https://www.amazon.com/Filament-Dimensional-Accuracy-Printing-Temperature/dp/B071HLVQ9Q/?_encoding=UTF8&pd_rd_w=42Wyo&content-id=amzn1.sym.4efc43db-939e-4a80-abaf-50c6a6b8c631%3Aamzn1.symc.5a16118f-86f0-44cd-8e3e-6c5f82df43d0&pf_rd_p=4efc43db-939e-4a80-abaf-50c6a6b8c631&pf_rd_r=5CC3YDP9SEC1S5YZ2QQE&pd_rd_wg=TeYEY&pd_rd_r=124d03bd-f463-4126-a83d-b13ac6f7fcb3&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1"
+      "brand": "CC3D",
+      "purchaseLink": "https://www.amazon.com.au/Changing-Temperature-Filament-Dimensional-Accuracy/dp/B074T999FX"
     },
     {
       "name": "Green To Yellow",
       "color": "#4A8D36",
       "materialType": "PLA",
-      "subType": "Color Changing",
+      "subType": "Temp Color Change",
       "hex": "#4A8D36",
-      "brand": "FLASHFORGE",
+      "brand": "CC3D",
       "purchaseLink": "https://www.amazon.com/Filament-Dimensional-Accuracy-Printing-Temperature/dp/B071HLVQ9Q/?_encoding=UTF8&pd_rd_w=42Wyo&content-id=amzn1.sym.4efc43db-939e-4a80-abaf-50c6a6b8c631%3Aamzn1.symc.5a16118f-86f0-44cd-8e3e-6c5f82df43d0&pf_rd_p=4efc43db-939e-4a80-abaf-50c6a6b8c631&pf_rd_r=5CC3YDP9SEC1S5YZ2QQE&pd_rd_wg=TeYEY&pd_rd_r=124d03bd-f463-4126-a83d-b13ac6f7fcb3&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1"
     },
     {
@@ -1050,7 +1050,7 @@
       "materialType": "PLA",
       "subType": "Carbon Fiber",
       "hex": "#252E36",
-      "brand": "FLASHFORGE",
+      "brand": "Flashforge",
       "purchaseLink": "https://www.amazon.com/dp/B0D7VVV22V?ref=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&ref_=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&social_share=cm_sw_r_cso_sms_apin_dp_WPAY3JBS99VJY1290P27&th=3"
     },
     {
