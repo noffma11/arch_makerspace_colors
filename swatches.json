@@ -1061,6 +1061,78 @@
       "hex": "#E0E3F5",
       "brand": "Epax",
       "purchaseLink": "https://epax3d.com/products/epax-fast-pla?variant=50474632446165"
+    },
+    {
+      "name": "Deep Space ",
+      "color": "#304252",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#304252",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/dark-blue-pla-1kg-1-75mm"
+    },
+    {
+      "name": "Regulation Gray",
+      "color": "#666C71",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#666C71",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/regulation-gray-pla-1-75mm"
+    },
+    {
+      "name": "Spaceship Steel",
+      "color": "#7B7E7F",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#7B7E7F",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/silver-pla-1kg-1-75mm"
+    },
+    {
+      "name": "Natural",
+      "color": "#8B8784",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#8B8784",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/natural-pla-1kg-1-75mm"
+    },
+    {
+      "name": "Desert Tan",
+      "color": "#B39A81",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#B39A81",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/desert-tan-pla-1kg-1-75mm"
+    },
+    {
+      "name": "Army Green",
+      "color": "#4E5346",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#4E5346",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/army-green-pla-1kg-1-75mm"
+    },
+    {
+      "name": "Classic Black",
+      "color": "#302F30",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#302F30",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/1-75mm-pla-1kg"
+    },
+    {
+      "name": "Dijon Yellow",
+      "color": "#DCAA54",
+      "materialType": "PLA",
+      "subType": "Premium",
+      "hex": "#DCAA54",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/gold-pla-1kg-1-75mm"
     }
   ]
 }
