@@ -631,6 +631,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Diameter-Printing/dp/B0FGZ21N12/ref=sr_1_1_sspa?crid=3D0INE1PEHUTG&dib=eyJ2IjoiMSJ9.B_tJlYum9CL_3MAQDCePaYnmvAzEklK9kQpIhRJG9jXghSKC0OBQ70jp5QHVVREHZkZWMIBhFFl99gUgDw5iMLIuSWXCgSQF2nHIhNS85lZpdeHsMSscaYyCs6U61DojT8AZ2ef-cCgdSY4fgE4U3qafw0HL6SRqdorUj1XMfLNqhDqTfz_PRxTmrAvRd3PP3og_vFHabCH_fERqMxZMQSaE2860ZSlQ1GQXw46_GQo.ZSLg0pbDwaPTF7vslebGl8d0x_3pGN3mP8NzsST1trU&dib_tag=se&keywords=hatchbox%2Bdark%2Bblue%2Bmax&qid=1758124638&sprefix=hatchbox%2Bdark%2Bblue%2Bmax%2Caps%2C115&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
+      "name": "Dark Blue",
+      "color": "#283146",
+      "materialType": "PLA",
+      "subType": "Plus",
+      "hex": "#283146",
+      "brand": "eSUN",
+      "purchaseLink": "https://www.amazon.com/eSUN-Filament-Dimensional-Accuracy-Cardboard/dp/B0DP8KRMJ4/ref=sr_1_4?crid=34DUS4WMQXKI7&dib=eyJ2IjoiMSJ9.tY_mUzhDGyYu0yY78X_35Qee-DJ9qQ68OLujlc2LJ8loh8le6w50uHohmwAbQfwrhjQ0JjFHKBI69NnugdXLYipcx65y-EQMSzByWtdIREpSof0pi-ytMcpDFHgoEfSv8eHARBYnOyny5TJ6Fk6DFLCShOHStxRUjJc4imDKC0WuCjzq2tOJEPi7DXWWAmj3oBAL9Qi-pYuKvpjnRrvV8EcCDDTdYlMUH6MJrZDu4rw.5HO-A-MZjZZyh7Ws9xSIoHIsYJgRk0WUq6PioEYPk34&dib_tag=se&keywords=esun%2Bpla%2Bdark%2Bblue&qid=1780016326&sprefix=esun%2Bpla%2Bdark%2Bblu%2Caps%2C192&sr=8-4&th=1"
+    },
+    {
       "name": "Blue Moon",
       "color": "#192B60",
       "materialType": "PLA",
