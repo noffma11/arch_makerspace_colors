@@ -730,6 +730,15 @@
       "purchaseLink": "https://www.microcenter.com/product/692940/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-true-red"
     },
     {
+      "name": "Ruby Red",
+      "color": "#78282B",
+      "materialType": "PLA",
+      "subType": "High Speed",
+      "hex": "#78282B",
+      "brand": "Flashforge",
+      "purchaseLink": "https://www.amazon.com/dp/B0CB7TW3XC?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1#averageCustomerReviewsAnchor"
+    },
+    {
       "name": "Royal Ruby",
       "color": "#A8393A",
       "materialType": "PLA",
@@ -827,6 +836,15 @@
       "hex": "#404549",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-agry?srsltid=AfmBOopUcfDuUj8l3D0j6m82OglmGd6BQ7pJ0JvKIMzdLBMdYvoDGGJN"
+    },
+    {
+      "name": "Gray",
+      "color": "#4B4D4E",
+      "materialType": "nGen",
+      "subType": "Metallic",
+      "hex": "#4B4D4E",
+      "brand": "colorFabb",
+      "purchaseLink": "https://buy.lulzbot.com/products/colorfabb-ngen-filament?utm_source=chatgpt.com&variant=50710471213370"
     },
     {
       "name": "Army Green",
