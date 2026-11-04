@@ -10,6 +10,15 @@
       "purchaseLink": "https://www.hatchbox3d.com/products/hatchbox-abs-3d-printer-filament-dimensional-accuracy-0-03-mm-1-kg-spool-1-75-mm-brown?srsltid=AfmBOoqCWPuUTsrtp1q0N-cj5x1tIbfwbk84X58Ou4WABAF2DkDVpi9A"
     },
     {
+      "name": "Chestnut",
+      "color": "#643535",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#643535",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/rust-pla"
+    },
+    {
       "name": "True Red",
       "color": "#AE2927",
       "materialType": "PLA",
@@ -206,6 +215,15 @@
       "hex": "#BCA07A",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B09G8C3NSC/ref=sr_1_3_pp?crid=2HT8CJGT76B0Y&dib=eyJ2IjoiMSJ9.vX1D_hTIZV32yY9_g-zOgvVoEl8vBWlVzZjCg6Iva4VH5rFSAfW9Zfjg-Wtac36A3yLOJcx6KZjXIDeSPMVJYmMEWu5asUboyFThVBlNXunx1rOWbbKNDWQKEh-Dep5bySHIMLxOJpkC7bd6T_oo0VvNBamJ1mDYq6tG91RCn799YkGt02HLG-u-4SzG6tTzKm2EHET-okrc81VzekuNZsxUlsKNQ31q7dDBb-wpbE4.iZ_F10OsRmQ1rkijkFpuqfpUB76ktXhK237HymSFs8c&dib_tag=se&keywords=hatchbox%2Bmatte%2Bpla&qid=1711031024&sprefix=hatchbox%2Bmatte%2Caps%2C79&sr=8-3&th=1"
+    },
+    {
+      "name": "Retro Platinum",
+      "color": "#C2B9AC",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#C2B9AC",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/retro-platinum-pla-1kg-1-75mm"
     },
     {
       "name": "Beige 500",
@@ -406,6 +424,15 @@
       "purchaseLink": "https://www.seemecnc.com/collections/filament/products/1-75mm-uv-reactive-neon-green-atomic-filament-pla-1kg-spool"
     },
     {
+      "name": "Alien Green",
+      "color": "#2C9239",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#2C9239",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/copy-of-lime-green-pla-1kg-1-75mm"
+    },
+    {
       "name": "Tree Green",
       "color": "#287B36",
       "materialType": "PLA",
@@ -451,6 +478,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GQ2OS/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
     },
     {
+      "name": "Shamrock",
+      "color": "#007641",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#007641",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/green-pla-1kg-1-75mm"
+    },
+    {
       "name": "Emerald",
       "color": "#006036",
       "materialType": "TPU",
@@ -487,6 +523,15 @@
       "purchaseLink": "https://www.roboter-bausatz.de/p/yourdroid-pla-filament-grasgruen-1.75mm-1kg"
     },
     {
+      "name": "Squid",
+      "color": "#00A282",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#00A282",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/teal-pla-1kg-1-75mm"
+    },
+    {
       "name": "Seafoam Blue",
       "color": "#B9CFCB",
       "materialType": "PLA",
@@ -515,6 +560,24 @@
     },
     {
       "name": "Light Blue",
+      "color": "#0097C8",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#0097C8",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/polar-filament-blue-1-75mm-pla-1kg"
+    },
+    {
+      "name": "Superior Blue",
+      "color": "#084B68",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#084B68",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/superior-blue-pla-1kg-1-75mm"
+    },
+    {
+      "name": "Light Blue",
       "color": "#007EBB",
       "materialType": "PLA",
       "subType": "",
@@ -539,6 +602,15 @@
       "hex": "#637888",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B09WW6QC3X/ref=sr_1_3_pp?crid=HI1ZI9CFPTFT&dib=eyJ2IjoiMSJ9.m65DvFTtGZsixXqnNmbYpsUg1G8HPWqfBSerrN9kPE1VFEhMfHQ5My6_wuyODbHJS8d-_wbxoI7l8_dLeTtmIiVdx_BeSSslCLs8JQlilKHySvR3dSArC0HIlmOZpAOxPIiI_ZSaz6MfPwAqGfYB788ZKw4aT3xyerx5AFZijTQVL2n8VnVYjAQvG3N-zOuRocYu0zP_FkBR5ygtkRykxyfXI2lkiU5LVMFd8GsJHEE.kCezkyNVg92FU4TbooYMIcVWS6N1AvtcC8qNhf1uMNw&dib_tag=se&keywords=hatchbox%2Bpla&qid=1718047267&sprefix=hatchbox%2Bpla%2Caps%2C87&sr=8-3&th=1"
+    },
+    {
+      "name": "Royal Blue",
+      "color": "#0063B4",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#0063B4",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/blue-pla-1kg-1-75mm"
     },
     {
       "name": "Blue",
@@ -649,6 +721,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blue-moon?variant=39502756347989"
     },
     {
+      "name": "Blurple",
+      "color": "#4158AB",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#4158AB",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/blurple-pla-1kg-1-75mm"
+    },
+    {
       "name": "Light Purple",
       "color": "#5C60A9",
       "materialType": "PLA",
@@ -692,6 +773,24 @@
       "hex": "#8F1C7C",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-PPLA-1KG1-75-BLK-Performance-Filament-Dimensional/dp/B017UZB1K0?th=1"
+    },
+    {
+      "name": "Bubblegum",
+      "color": "#FA75C9",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#FA75C9",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/bubblegum-pla-1kg-1-75mm"
+    },
+    {
+      "name": "Pink",
+      "color": "#E3A6B7",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#E3A6B7",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/pink-pla-1kg-1-75mm"
     },
     {
       "name": "True Pink",
@@ -755,6 +854,15 @@
       "hex": "#262325",
       "brand": "Jessie",
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-black?variant=39502749433941"
+    },
+    {
+      "name": "Black",
+      "color": "#242528",
+      "materialType": "TPU",
+      "subType": "",
+      "hex": "#242528",
+      "brand": "Overture",
+      "purchaseLink": "https://www.amazon.com/Overture-Filament-Flexible-Consumables-Dimensional/dp/B07VDP2S3P/ref=sr_1_5?crid=2Y15QRPAO4MYP&dib=eyJ2IjoiMSJ9.FpCSwxR4TyJ78JqBztFgvDwrPqm4ZKhf6kwsynIUeGPNe331opy_I0Z-PpR-gJ5DUOSVbpXN87jYnxKYKSDh0sw03ttXSD_Ffl-Hfa0x3KimcJ63Ex-Lz36o8__Kie9oH5GOvRHqPA7E_rGWDRZ9xO5ecoqYj5y5uO9NUxT6Ua6o5BWiFsh5FHUyyhy0q-GwlTa1Yp4VlXn7miiZa2pIByBFf7mu3FVu8coCc6aHYJs.XEuUzOC8RGu3qM-Sg0x3HpXbrSwHaYm0jh8q18i7LzY&dib_tag=se&keywords=tpu%2Bblack%2B95a&qid=1791289208&sprefix=tpu%2Bblack%2B95a%2Caps%2C204&sr=8-5&th=1"
     },
     {
       "name": "Black",
@@ -829,6 +937,15 @@
       "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/#description"
     },
     {
+      "name": "Power Gray 500",
+      "color": "#434242",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#434242",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/power-gray-500-pla-1kg-1-75mm"
+    },
+    {
       "name": "Ash Gray",
       "color": "#404549",
       "materialType": "PLA",
@@ -863,6 +980,15 @@
       "hex": "#525440",
       "brand": "Prusament",
       "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-mystic-green"
+    },
+    {
+      "name": "Power Gray 100",
+      "color": "#5C5B5C",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#5C5B5C",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/coming-soon-power-gray-100"
     },
     {
       "name": "Gray",
@@ -1088,6 +1214,15 @@
       "hex": "#D1D4DB",
       "brand": "Elegoo",
       "purchaseLink": "https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Cardboard/dp/B0BM7446JH/ref=asc_df_B0BM7446JH/?tag=hyprod-20&linkCode=df0&hvadid=673692537739&hvpos=&hvnetw=g&hvrand=8088917473020781475&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016261&hvtargid=pla-2200865268671&mcid=4b307eeb11af3e8ea071f51e288280b4&th=1"
+    },
+    {
+      "name": "Robotic White",
+      "color": "#D7D8D6",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#D7D8D6",
+      "brand": "Poar Filament",
+      "purchaseLink": "https://polarfilament.com/products/robotic-white-pla-1kg-1-75mm"
     },
     {
       "name": "White",
