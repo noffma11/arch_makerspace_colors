@@ -46,6 +46,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-lipstick-red"
     },
     {
+      "name": "Coppercabana",
+      "color": "#9D7874",
+      "materialType": "PLA",
+      "subType": "Silk",
+      "hex": "#9D7874",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-blend-coppercabana-1kg/"
+    },
+    {
       "name": "Terracotta",
       "color": "#A46A62",
       "materialType": "PLA",
@@ -235,6 +244,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-beige-500?_pos=8&_psq=jessie&_ss=e&_v=1.0"
     },
     {
+      "name": "Viva La Bronze",
+      "color": "#B28A4C",
+      "materialType": "PLA",
+      "subType": "Silk",
+      "hex": "#B28A4C",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-blend-viva-la-bronze-1kg-nfc/"
+    },
+    {
       "name": "Gold",
       "color": "#D8A14B",
       "materialType": "PLA",
@@ -298,6 +316,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-golden-winner?_pos=1&_psq=golden&_ss=e&_v=1.0"
     },
     {
+      "name": "Oh My Gold",
+      "color": "#BA9207",
+      "materialType": "PLA",
+      "subType": "Silk",
+      "hex": "#BA9207",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-blend-oh-my-gold-1kg-nfc/"
+    },
+    {
       "name": "Gold",
       "color": "#BE9400",
       "materialType": "PLA",
@@ -305,6 +332,15 @@
       "hex": "#BE9400",
       "brand": "Inland",
       "purchaseLink": "https://www.microcenter.com/product/512943/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold"
+    },
+    {
+      "name": "Yellow",
+      "color": "#E7C219",
+      "materialType": "PLA",
+      "subType": "ColorMix",
+      "hex": "#E7C219",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-colormix-yellow-1kg-nfc/"
     },
     {
       "name": "Real Yellow",
@@ -368,6 +404,15 @@
       "hex": "#8ABF30",
       "brand": "Hatchbox",
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B09WW5HJCV/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
+    },
+    {
+      "name": "Pistachio Green",
+      "color": "#95A381",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#95A381",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-pistachio-green-1kg-nfc/"
     },
     {
       "name": "Green",
@@ -469,6 +514,15 @@
       "purchaseLink": "https://www.amazon.com/Polymaker-Changeable-Starlight-Filament-Different/dp/B0BYJQM8G9/ref=asc_df_B0BYJRT2D6/?tag=hyprod-20&linkCode=df0&hvadid=693071814430&hvpos=&hvnetw=g&hvrand=4430608002467067516&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016261&hvtargid=pla-2204208245953&mcid=ef3c742a87a337e9a60888bbb496ee90&gad_source=1&th=1"
     },
     {
+      "name": "Emerald Green",
+      "color": "#295841",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#295841",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-emerald-green-1kg-nfc/"
+    },
+    {
       "name": "True Green",
       "color": "#00984F",
       "materialType": "PLA",
@@ -559,6 +613,15 @@
       "purchaseLink": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B09WW6YWMH/ref=sr_1_2_pp?crid=31E4GCP46RJ9V&dib=eyJ2IjoiMSJ9.XGC3yT5ySlxRvFTR0LLrawO2Z14sy2O8QkdlXEUPhbikyhW-0O1XpqmIN0GOwamR782HTDz2T82Iuc7dsm9vNXyVJl7l4OtpFPBHMRtjTJLkH2cJmTVpLVGqdxn6o4Htb7NM4qfLkVP8G9lZAaHH11xA1fwH7YjAqBHWNJtfVCcA7R7ADvetHZf9Ph_r8xrgK1nkoJyVm0auZjOXbxYPTmp7XZjMfUkBTmvcSb_W9AA.6jUf3vy-auncm-42d1Fx__zxD0Fnqy8llBvT8BrYxns&dib_tag=se&keywords=hatchbox&qid=1711031287&sprefix=hatchbox%2Caps%2C114&sr=8-2&th=1"
     },
     {
+      "name": "Gentleman's Grey",
+      "color": "#2F4347",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#2F4347",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-gentleman-s-grey-1kg-nfc/"
+    },
+    {
       "name": "Light Blue",
       "color": "#0097C8",
       "materialType": "PLA",
@@ -566,6 +629,15 @@
       "hex": "#0097C8",
       "brand": "Polar Filament",
       "purchaseLink": "https://polarfilament.com/products/polar-filament-blue-1-75mm-pla-1kg"
+    },
+    {
+      "name": "Arctic White",
+      "color": "#E0E8EB",
+      "materialType": "PLA",
+      "subType": "",
+      "hex": "#E0E8EB",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/arctic-white-pla-1kg-1-75mm?_pos=1&_psq=artic&_psid=29a587091&_ss=e"
     },
     {
       "name": "Superior Blue",
@@ -784,6 +856,15 @@
       "purchaseLink": "https://polarfilament.com/products/bubblegum-pla-1kg-1-75mm"
     },
     {
+      "name": "Magenta",
+      "color": "#A8487A",
+      "materialType": "PLA",
+      "subType": "ColorMix",
+      "hex": "#A8487A",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-colormix-magenta-1kg-nfc/"
+    },
+    {
       "name": "Pink",
       "color": "#E3A6B7",
       "materialType": "PLA",
@@ -917,6 +998,15 @@
       "hex": "#343737",
       "brand": "Bambu Lab",
       "purchaseLink": "https://us.store.bambulab.com/products/asa-filament?srsltid=AfmBOorHwh4rqNYh9aCI8kPnbiS0mtwvutlMdddlp4Tw1eIuWSnwlMDS&t=1756818798803&id=41227780817032"
+    },
+    {
+      "name": "Black",
+      "color": "#3F3C3A",
+      "materialType": "PLA",
+      "subType": "ColorMix",
+      "hex": "#3F3C3A",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-colormix-black-1kg-nfc/"
     },
     {
       "name": "Black",
@@ -1072,6 +1162,15 @@
       "purchaseLink": "https://polarfilament.com/products/natural-pla-1kg-1-75mm"
     },
     {
+      "name": "Sliver",
+      "color": "#8A888A",
+      "materialType": "PLA",
+      "subType": "ColorMix Glitter",
+      "hex": "#8A888A",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-colormix-silver-glitter-1kg-nfc/"
+    },
+    {
       "name": "Transparent",
       "color": "#8A8B96",
       "materialType": "PLA",
@@ -1153,6 +1252,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/prusament-pla-1-75mm-1kg-gravity-grey"
     },
     {
+      "name": "Gold",
+      "color": "#A6A191",
+      "materialType": "PLA",
+      "subType": "ColorMix Glitter",
+      "hex": "#A6A191",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-colormix-gold-glitter-1kg-nfc/"
+    },
+    {
       "name": "Vanilla Bean Ice Cream",
       "color": "#A6A8AB",
       "materialType": "PLA",
@@ -1196,6 +1304,15 @@
       "hex": "#B8C1C8",
       "brand": "Inland",
       "purchaseLink": "https://www.microcenter.com/product/692936/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-white?sp=195"
+    },
+    {
+      "name": "White",
+      "color": "#C7CBCB",
+      "materialType": "PLA",
+      "subType": "ColorMix",
+      "hex": "#C7CBCB",
+      "brand": "Prusament",
+      "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-colormix-white-1kg-nfc/"
     },
     {
       "name": "Design White",
@@ -1331,6 +1448,60 @@
       "hex": "#E0E3F5",
       "brand": "Epax",
       "purchaseLink": "https://epax3d.com/products/epax-fast-pla?variant=50474632446165"
+    },
+    {
+      "name": "Black",
+      "color": "#2A2B2A",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#2A2B2A",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/open-beta-experimental-black-petg-1kg-1-75mm"
+    },
+    {
+      "name": "Ice Blue",
+      "color": "#006D87",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#006D87",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/experimental-ice-blue-petg-1kg-1-75mm"
+    },
+    {
+      "name": "White",
+      "color": "#F1F1EE",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#F1F1EE",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/open-beta-pre-release-experimental-white-petg-1-75mm-1kg"
+    },
+    {
+      "name": "Clear",
+      "color": "#8B898E",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#8B898E",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/open-beta-pre-release-experimental-clear-petg-1-75mm-1kg"
+    },
+    {
+      "name": "Transparent",
+      "color": "#818384",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#818384",
+      "brand": "Elegoo",
+      "purchaseLink": "https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D41ZMR4G/ref=sr_1_8?crid=3MQNBBNOKA1LY&dib=eyJ2IjoiMSJ9.hY6nqYQHh8mxsLneGLck-_793HdUldC1rm0jWsWl_hgo0l78vQym3TL2dR0u7By4vzLPDZMzfqjRVEZ-_2kn7O9Tf5aWXlB6bQQiNRRgA4AZYbpRISAMCWfHeo1K_45VBkGOd1DJEiqFhy_jf7R4Vx6qtp_K_ySmlTTHQqKgvaIaVk_8GLjfNcxwsNViaPEPuioTW3FHNBJEP6G5zq0qvTfdxsQ2Kqo8JPoIxRqrE5Q.XF6oKeuD8hARXSPklfLamzb9WsdnmbH5L6CAIii3tGI&dib_tag=se&keywords=elegoo%2Bpetg&qid=1794416900&sprefix=elegoo%2Bpetg%2B%2Caps%2C169&sr=8-8&th=1"
+    },
+    {
+      "name": "Black",
+      "color": "#292B2E",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#292B2E",
+      "brand": "Elegoo",
+      "purchaseLink": "https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D41Y3WWZ/ref=sr_1_8?crid=3MQNBBNOKA1LY&dib=eyJ2IjoiMSJ9.hY6nqYQHh8mxsLneGLck-_793HdUldC1rm0jWsWl_hgo0l78vQym3TL2dR0u7By4vzLPDZMzfqjRVEZ-_2kn7O9Tf5aWXlB6bQQiNRRgA4AZYbpRISAMCWfHeo1K_45VBkGOd1DJEiqFhy_jf7R4Vx6qtp_K_ySmlTTHQqKgvaIaVk_8GLjfNcxwsNViaPEPuioTW3FHNBJEP6G5zq0qvTfdxsQ2Kqo8JPoIxRqrE5Q.XF6oKeuD8hARXSPklfLamzb9WsdnmbH5L6CAIii3tGI&dib_tag=se&keywords=elegoo%2Bpetg&qid=1794416900&sprefix=elegoo%2Bpetg%2B%2Caps%2C169&sr=8-8&th=1"
     }
   ]
 }
