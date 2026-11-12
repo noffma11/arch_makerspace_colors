@@ -622,6 +622,15 @@
       "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-gentleman-s-grey-1kg-nfc/"
     },
     {
+      "name": "Ice Blue",
+      "color": "#006D87",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#006D87",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/experimental-ice-blue-petg-1kg-1-75mm"
+    },
+    {
       "name": "Light Blue",
       "color": "#0097C8",
       "materialType": "PLA",
@@ -964,6 +973,24 @@
       "purchaseLink": "https://www.amazon.pl/Amazon-Filament-drukarki-tworzywa-sztucznego/dp/B07T6WLFML"
     },
     {
+      "name": "Black",
+      "color": "#2A2B2A",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#2A2B2A",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/open-beta-experimental-black-petg-1kg-1-75mm"
+    },
+    {
+      "name": "Black",
+      "color": "#292B2E",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#292B2E",
+      "brand": "Elegoo",
+      "purchaseLink": "https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D41Y3WWZ/ref=sr_1_8?crid=3MQNBBNOKA1LY&dib=eyJ2IjoiMSJ9.hY6nqYQHh8mxsLneGLck-_793HdUldC1rm0jWsWl_hgo0l78vQym3TL2dR0u7By4vzLPDZMzfqjRVEZ-_2kn7O9Tf5aWXlB6bQQiNRRgA4AZYbpRISAMCWfHeo1K_45VBkGOd1DJEiqFhy_jf7R4Vx6qtp_K_ySmlTTHQqKgvaIaVk_8GLjfNcxwsNViaPEPuioTW3FHNBJEP6G5zq0qvTfdxsQ2Kqo8JPoIxRqrE5Q.XF6oKeuD8hARXSPklfLamzb9WsdnmbH5L6CAIii3tGI&dib_tag=se&keywords=elegoo%2Bpetg&qid=1794416900&sprefix=elegoo%2Bpetg%2B%2Caps%2C169&sr=8-8&th=1"
+    },
+    {
       "name": "True Black",
       "color": "#302E31",
       "materialType": "PLA",
@@ -1144,6 +1171,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-natural?_pos=2&_psq=natural&_ss=e&_v=1.0"
     },
     {
+      "name": "Transparent",
+      "color": "#818384",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#818384",
+      "brand": "Elegoo",
+      "purchaseLink": "https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D41ZMR4G/ref=sr_1_8?crid=3MQNBBNOKA1LY&dib=eyJ2IjoiMSJ9.hY6nqYQHh8mxsLneGLck-_793HdUldC1rm0jWsWl_hgo0l78vQym3TL2dR0u7By4vzLPDZMzfqjRVEZ-_2kn7O9Tf5aWXlB6bQQiNRRgA4AZYbpRISAMCWfHeo1K_45VBkGOd1DJEiqFhy_jf7R4Vx6qtp_K_ySmlTTHQqKgvaIaVk_8GLjfNcxwsNViaPEPuioTW3FHNBJEP6G5zq0qvTfdxsQ2Kqo8JPoIxRqrE5Q.XF6oKeuD8hARXSPklfLamzb9WsdnmbH5L6CAIii3tGI&dib_tag=se&keywords=elegoo%2Bpetg&qid=1794416900&sprefix=elegoo%2Bpetg%2B%2Caps%2C169&sr=8-8&th=1"
+    },
+    {
       "name": "Gold Green Black",
       "color": "#7C8B68",
       "materialType": "PLA",
@@ -1169,6 +1205,15 @@
       "hex": "#8A888A",
       "brand": "Prusament",
       "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-colormix-silver-glitter-1kg-nfc/"
+    },
+    {
+      "name": "Clear",
+      "color": "#8B898E",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#8B898E",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/open-beta-pre-release-experimental-clear-petg-1-75mm-1kg"
     },
     {
       "name": "Transparent",
@@ -1432,6 +1477,15 @@
       "purchaseLink": "https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-white?variant=39502748844117"
     },
     {
+      "name": "White",
+      "color": "#F1F1EE",
+      "materialType": "PETG",
+      "subType": "",
+      "hex": "#F1F1EE",
+      "brand": "Polar Filament",
+      "purchaseLink": "https://polarfilament.com/products/open-beta-pre-release-experimental-white-petg-1-75mm-1kg"
+    },
+    {
       "name": "Polar White",
       "color": "#F7F4EC",
       "materialType": "PLA",
@@ -1448,60 +1502,6 @@
       "hex": "#E0E3F5",
       "brand": "Epax",
       "purchaseLink": "https://epax3d.com/products/epax-fast-pla?variant=50474632446165"
-    },
-    {
-      "name": "Black",
-      "color": "#2A2B2A",
-      "materialType": "PETG",
-      "subType": "",
-      "hex": "#2A2B2A",
-      "brand": "Polar Filament",
-      "purchaseLink": "https://polarfilament.com/products/open-beta-experimental-black-petg-1kg-1-75mm"
-    },
-    {
-      "name": "Ice Blue",
-      "color": "#006D87",
-      "materialType": "PETG",
-      "subType": "",
-      "hex": "#006D87",
-      "brand": "Polar Filament",
-      "purchaseLink": "https://polarfilament.com/products/experimental-ice-blue-petg-1kg-1-75mm"
-    },
-    {
-      "name": "White",
-      "color": "#F1F1EE",
-      "materialType": "PETG",
-      "subType": "",
-      "hex": "#F1F1EE",
-      "brand": "Polar Filament",
-      "purchaseLink": "https://polarfilament.com/products/open-beta-pre-release-experimental-white-petg-1-75mm-1kg"
-    },
-    {
-      "name": "Clear",
-      "color": "#8B898E",
-      "materialType": "PETG",
-      "subType": "",
-      "hex": "#8B898E",
-      "brand": "Polar Filament",
-      "purchaseLink": "https://polarfilament.com/products/open-beta-pre-release-experimental-clear-petg-1-75mm-1kg"
-    },
-    {
-      "name": "Transparent",
-      "color": "#818384",
-      "materialType": "PETG",
-      "subType": "",
-      "hex": "#818384",
-      "brand": "Elegoo",
-      "purchaseLink": "https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D41ZMR4G/ref=sr_1_8?crid=3MQNBBNOKA1LY&dib=eyJ2IjoiMSJ9.hY6nqYQHh8mxsLneGLck-_793HdUldC1rm0jWsWl_hgo0l78vQym3TL2dR0u7By4vzLPDZMzfqjRVEZ-_2kn7O9Tf5aWXlB6bQQiNRRgA4AZYbpRISAMCWfHeo1K_45VBkGOd1DJEiqFhy_jf7R4Vx6qtp_K_ySmlTTHQqKgvaIaVk_8GLjfNcxwsNViaPEPuioTW3FHNBJEP6G5zq0qvTfdxsQ2Kqo8JPoIxRqrE5Q.XF6oKeuD8hARXSPklfLamzb9WsdnmbH5L6CAIii3tGI&dib_tag=se&keywords=elegoo%2Bpetg&qid=1794416900&sprefix=elegoo%2Bpetg%2B%2Caps%2C169&sr=8-8&th=1"
-    },
-    {
-      "name": "Black",
-      "color": "#292B2E",
-      "materialType": "PETG",
-      "subType": "",
-      "hex": "#292B2E",
-      "brand": "Elegoo",
-      "purchaseLink": "https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D41Y3WWZ/ref=sr_1_8?crid=3MQNBBNOKA1LY&dib=eyJ2IjoiMSJ9.hY6nqYQHh8mxsLneGLck-_793HdUldC1rm0jWsWl_hgo0l78vQym3TL2dR0u7By4vzLPDZMzfqjRVEZ-_2kn7O9Tf5aWXlB6bQQiNRRgA4AZYbpRISAMCWfHeo1K_45VBkGOd1DJEiqFhy_jf7R4Vx6qtp_K_ySmlTTHQqKgvaIaVk_8GLjfNcxwsNViaPEPuioTW3FHNBJEP6G5zq0qvTfdxsQ2Kqo8JPoIxRqrE5Q.XF6oKeuD8hARXSPklfLamzb9WsdnmbH5L6CAIii3tGI&dib_tag=se&keywords=elegoo%2Bpetg&qid=1794416900&sprefix=elegoo%2Bpetg%2B%2Caps%2C169&sr=8-8&th=1"
     }
   ]
 }
