@@ -859,7 +859,7 @@
       "name": "Galaxy Purple",
       "color": "#433D6B",
       "materialType": "PLA",
-      "subType": "",
+      "subType": "Glitter",
       "hex": "#433D6B",
       "brand": "Prusament",
       "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-galaxy-purple-1kg-nfc/"
@@ -1030,7 +1030,7 @@
       "name": "Jet Black",
       "color": "#28292B",
       "materialType": "PLA",
-      "subType": "Glitter",
+      "subType": "",
       "hex": "#28292B",
       "brand": "Prusament",
       "purchaseLink": "https://www.prusa3d.com/product/prusament-pla-jet-black-1kg-nfc/"
